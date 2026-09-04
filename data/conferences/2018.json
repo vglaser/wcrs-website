@@ -1,0 +1,114 @@
+{
+ "year": 2018,
+ "held": true,
+ "start_date": "2018-09-13",
+ "end_date": "2018-09-14",
+ "dates_display": "September 13–14, 2018",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "program_pdf": {
+  "file": "2018-wcrs-program.pdf",
+  "source": "2018-program1.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2018/08/2018-program1.pdf"
+ },
+ "highlights": [
+  "Day 1 lunch at Intellectual House; dinner at the UW Club."
+ ],
+ "papers": [
+  {
+   "title": "Competition, Contracts, and Creativity: Evidence from Novel Writing in a Platform Market",
+   "authors": "Feng Zhu, Harvard Business School; Yanhui Wu, University of Southern California"
+  },
+  {
+   "title": "Deterring the New, Motivating the Established—The Divergent Effect of Platform Competition on Member Contributions in Digital Mapping Communities",
+   "authors": "Abhishek Nagaraj, University of California, Berkeley; Henning Piezunka, INSEAD"
+  },
+  {
+   "title": "Value Creation in the Sharing Economy: Types of Value, Governance Mechanisms and Business Models for Peer-to-Peer Marketplaces",
+   "authors": "Christina Kyprianou and Chad Navis, Clemson University"
+  },
+  {
+   "title": "Absorptive Capacity and Intraorganizational Inventor Network Structures",
+   "authors": "Ralph Heidl, University of Oregon; Kevin Steensma, University of Washington; Rose Ji Youn Kim, University of Kentucky"
+  },
+  {
+   "title": "Hubs as Lampposts: Academic Location and Firms' Attention to Science",
+   "authors": "Matt Marx, Boston University; Michaël Bikard, London Business School"
+  },
+  {
+   "title": "From Laborer to Founder: Examining Entrepreneurs' Fundamental Transitions on an Online Platform",
+   "authors": "Moshe Barach, University of Minnesota; Christopher Rider, Georgetown University"
+  },
+  {
+   "title": "Helping the Little Guy: The Impact of Government Awards on Small Technology Firms",
+   "authors": "Aleksandar Giga, Andrea Belz, and Fernando Zapatero, University of Southern California; Richard Terrile, California Institute of Technology"
+  },
+  {
+   "title": "Early Stage Financing for Academic Entrepreneurs",
+   "authors": "Andrea Belz, Aleksandar Giga and Fernando Zapatero, University of Southern California"
+  },
+  {
+   "title": "Unexpected High-Impact Events, Young-Firm Responses, and Varying Patterns Of Resource Reconfiguration",
+   "authors": "Emily Cox Pahnke, University of Washington; Riitta Katila, Stanford University"
+  },
+  {
+   "title": "Institutional Attention: Cultural Entrepreneurship and the Dynamics of Category Construction",
+   "authors": "Vern Glaser and Michael Lounsbury, University of Alberta; Hovig Tchalian, Claremont Graduate University; Jeff Green (no affiliation printed)"
+  },
+  {
+   "title": "A Socio-cognitive Model of Industry Sector Emergence: The Impacts of Regional Institutional Logics and Knowledge Characteristics on New Firm Entry",
+   "authors": "Siddharth Vedula and Andrew Corbett, Babson College; Jeffrey York, University of Colorado, Boulder"
+  },
+  {
+   "title": "Cultural Entrepreneurship: Towards a Theory of Meaning Cultivation",
+   "authors": "Christi Lockwood, University of Virginia; Jean-François Soublière, University of Alberta"
+  },
+  {
+   "title": "When Does Economic Experimentation Matter? Finding the Pivot in the Early History of the Automobile Industry",
+   "authors": "David Kirsch, Sandeep Devanatha Pillai, and Brent Goldfarb, University of Maryland"
+  },
+  {
+   "title": "Bottlenecks, Experimentation, and Growth: Lessons From The Nascent Civilian Drone Industry",
+   "authors": "Kathy Eisenhardt and Robert Bremner, Stanford University"
+  },
+  {
+   "title": "Built to serve: A Multi-level Perspective on the Creation and Reconfiguration of Ecosystems",
+   "authors": "Douglas Hannah and Andrea Caldwell, University of Texas at Austin; Timothy Ott, University of North Carolina at Chapel Hill"
+  },
+  {
+   "title": "Technological Innovation in a Moral Market: Fortification Technology in the U.S. Human Milk Ecosystem",
+   "authors": "Arafaat Valiani, University of Oregon"
+  },
+  {
+   "title": "Negotiating the Meaning of Catastrophic Innovation Failure",
+   "authors": "Sen Chai, ESSEC Business School; Anil Doshi, University College London; Luciana Silvestri, Harvard Business School"
+  },
+  {
+   "title": "Scaling-up Entrepreneurial Firms: Board Evolution and Firm Performance",
+   "authors": "Sam Garg and Qiang Li, HKUST; Jason Shaw, Hong Kong Polytechnic University"
+  },
+  {
+   "title": "Informal Certification: Resolving the Tension between Lowering Barriers to Entry and New Firm Legitimacy",
+   "authors": "Robert Eberhart, Santa Clara University"
+  },
+  {
+   "title": "How More Certification Can Enhance Non-conformity",
+   "authors": "Lauren Lanahan, University of Oregon; Daniel Armanios, Carnegie Mellon University"
+  },
+  {
+   "title": "Distinction through Deviance: Making Money on the Margins in Cannabis Markets",
+   "authors": "Cyrus Dioun, University Colorado, Denver"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "year": 2009,
+ "held": true,
+ "start_date": "2009-09-11",
+ "end_date": "2009-09-12",
+ "dates_display": "September 11–12, 2009",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Center for Innovation and Entrepreneurship",
+  "school": "University of Washington",
+  "school_display": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "School of Law Building and BOA Executive Education Center",
+  "short": "Law Building and BOA Center"
+ },
+ "program_pdf": {
+  "file": "2009-wcrs-program.pdf",
+  "source": "2009wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2009wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Dinner cruise on Lake Washington and Lake Union."
+ ],
+ "papers": [
+  {
+   "title": "Do Technology Transfer Metrics Distort Knowledge Transfer Processes?",
+   "authors": "Andrew Nelson, University of Oregon"
+  },
+  {
+   "title": "Information Technology and Research Patterns in the Life Sciences",
+   "authors": "Waverley Ding, UC Berkeley; Sharon Levin, U. Missouri-St. Louis; Paula Stephan, Georgia State U.; Anne Winkler, U. Missouri-St. Louis"
+  },
+  {
+   "title": "An Inquiry into an Epistemic Incident around Authorship Norms: Atlas Collaboration at Cern",
+   "authors": "Raghu Garud and Barbara Gray, Pennsylvania State University; Phillip Turtscher, Vienna University Economics and Business"
+  },
+  {
+   "title": "To Make or Not to Make? Stock Market Returns to Make versus Buy Innovations",
+   "authors": "Abhishek Borah and Gerard Tellis, University of Southern California"
+  },
+  {
+   "title": "Corporate Venture Capital Investments: A Dyadic Analysis of CVC Relationships",
+   "authors": "Anu Wadhwa, Ecole Polytechnique Fédérale de Lausanne and Corey Phelps, University of Washington"
+  },
+  {
+   "title": "Innovations in Features, Functions, and Systems: The Case of Green Motorhomes",
+   "authors": "Anne Parmigiani and Jennifer Irwin, University of Oregon"
+  },
+  {
+   "title": "Patenting by Entrepreneurs: An empirical Study",
+   "authors": "Ted Sichelman, University of San Diego and Stuart Graham, Georgia Tech"
+  },
+  {
+   "title": "A Cross-Country Study of Entrepreneurial Optimism and Valuations",
+   "authors": "Gary Dushnitsky, University of Pennsylvania"
+  },
+  {
+   "title": "Distinguishing Extreme vs. Average Effects in Nascent Firms: An Organizational Risk Approach to Resources",
+   "authors": "Fabrice Cavarretta, ESSEC Business School"
+  },
+  {
+   "title": "Tie Formation and New Venture Survival- A Dynamic Longitudinal Study",
+   "authors": "David Gomulya and Suresh Kotha, University of Washington"
+  },
+  {
+   "title": "With Whom do Entrepreneurs Connect? A Matching Theory of Tie Formation and Success",
+   "authors": "Balagopal Vissa, INSEAD"
+  },
+  {
+   "title": "All the Right Moves: Competitive Interactions and Temporary Advantage in New and Established Markets",
+   "authors": "Eric Chen, Riitta Katila, Rory McDonald, and Kathy Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Dual Signaling and Social Ties among Competitors",
+   "authors": "Denis Trapido, University of California, Irvine"
+  },
+  {
+   "title": "Are All \"Sharks\" Dangerous? New Biotechnology Ventures and Partner Selection in R&D Alliances",
+   "authors": "Luis Diestre, Instituto de Empresa Business School and Nandini Rajagopalan, University of Southern California"
+  },
+  {
+   "title": "Cutting Your Teeth: Building on the Micro-Foundations for Dynamic Capabilities",
+   "authors": "Chuck Eesley, Stanford University and Edward Roberts, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "Cognitive Flexibility: The Adaptive Reality of Concrete Organization Change",
+   "authors": "Nathan Furr, Brigham Young University"
+  },
+  {
+   "title": "Topology and Dynamics of the Technology Landscape",
+   "authors": "Barak Aharonson and Melissa Schilling, New York University"
+  },
+  {
+   "title": "The Parent's Legacy: Firm Founders and Technological Choice",
+   "authors": "Warren Boeker, U. of Washington; Sandip Basu, California State U., East Bay; Michael Howard, U. of Washington; Arvin Sahaym, Washington State U."
+  },
+  {
+   "title": "High-Technology and Regions in an Era of Open Innovation",
+   "authors": "Darrene Hackler, George Mason University"
+  },
+  {
+   "title": "Innovation, Social Structure & the Creation of New Industries: User Communities as Paths from Innovation to Industry",
+   "authors": "Sonali Shah, University of Washington and Cyrus Mody, Rice University"
+  },
+  {
+   "title": "Out of Many, One: How Repetition and the Logic of Innovation Transformed Category Straddles into Nanotechnology",
+   "authors": "Yu-Chieh Lo and Mark Kennedy, University of Southern California"
+  },
+  {
+   "title": "Changing Landscapes: The Construction of Meaning and Value in a New Market Category",
+   "authors": "Modern Indian Art — Mukti Khaire, Harvard Business School and R. Daniel Wadhwani, University of the Pacific"
+  },
+  {
+   "title": "Institutional Beacons as Alternative Paths to Cognitive Legitimacy: The Rise of Venture Capital, IPOs, and Yale",
+   "authors": "Rory McDonald, Stanford University; Benjamin Hallen, University of Maryland; Emily Cox, Stanford University"
+  }
+ ]
+}

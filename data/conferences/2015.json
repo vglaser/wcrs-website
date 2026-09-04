@@ -1,0 +1,114 @@
+{
+ "year": 2015,
+ "held": true,
+ "start_date": "2015-09-10",
+ "end_date": "2015-09-11",
+ "dates_display": "September 10–11, 2015",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "program_pdf": {
+  "file": "2015-wcrs-program.pdf",
+  "source": "2015-wcrs-program.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2018/08/2015-wcrs-program.pdf"
+ },
+ "highlights": [
+  "Seven sessions of three papers; dinner at Black Bottle."
+ ],
+ "papers": [
+  {
+   "title": "Origins and Outcomes of Firm Strategy in Nascent Ecosystems",
+   "authors": "Douglas Hannah, University of Texas at Austin; Kathleen Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Entrepreneurship in Action: Reducing the Uncertainty of Innovation",
+   "authors": "Vern Glaser and Matthew Grimes, University of Alberta"
+  },
+  {
+   "title": "Negotiating Market Boundaries: Fitting New Products into Existing Categories",
+   "authors": "Natalya Vinokurova, University of Pennsylvania"
+  },
+  {
+   "title": "Founder Identity and Firm Flexibility in a Nascent Industry",
+   "authors": "Tiona Zuzul, London Business School; Mary Tripsas, Boston College"
+  },
+  {
+   "title": "Unequal Disadvantage in Female Entrepreneurship",
+   "authors": "Jorge Guzman, Olenka Kacperczyk and Scott Stern, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "Gender and the Language of Crowdfunding",
+   "authors": "Andreea Gorbatai, University of California Berkeley; Laura Nelson, Northwestern University"
+  },
+  {
+   "title": "United, We Stand? Venture Capital Syndicates' Joint Co-investment Experience and Entrepreneurial Exits",
+   "authors": "Dan Wang, Columbia University; Emily Cox Pahnke, University of Washington; Rory McDonald, Harvard University"
+  },
+  {
+   "title": "Multi-level Contextual Influences on Venture Capital Decision Making",
+   "authors": "Jeffrey Petty, University of Lausanne; Marc Gruber, Ecole Polytechnique Fédérale de Lausanne; Dietmar Harhoff, Ludwig-Maximilians University of Munich"
+  },
+  {
+   "title": "Venture Boards: The Impact of CVC-Directors on Venture Innovation",
+   "authors": "Sam Garg, HKUST; Emily Cox Pahnke, University of Washington; Michael Howard, Texas A&M University"
+  },
+  {
+   "title": "Agency Incentives and Firm Innovation: Analyzing the Patenting Behavior of State-Owned Firms in China",
+   "authors": "Nan Jia, University of Southern California; Kenneth Huang and Cyndi Zhang, Singapore Management University"
+  },
+  {
+   "title": "Approximating Exogenous Variation in R&D: SBIR Projects and State Matching Funds",
+   "authors": "Lauren Lanahan, University of Oregon; Maryann Feldman, University of North Carolina at Chapel Hill"
+  },
+  {
+   "title": "Patently Secret? Hydraulic Fracturing Patents and the Containment of Public Risk Information",
+   "authors": "Joel Gehman, University of Alberta; Zhen Lei, Dan Cahoy and Siavash Varasteh, Pennsylvania State University"
+  },
+  {
+   "title": "R&D Production Team Organization and Firm-Level Innovation",
+   "authors": "Vikas Aggarwal, INSEAD; David Hsu and Andy Wu, University of Pennsylvania"
+  },
+  {
+   "title": "Building and Engaging Online Communities for New Product Innovation Using Crowdsourcing and Expertsourcing",
+   "authors": "Jennifer Woolley, Tammy Madsen and Kumar Sarangee, Santa Clara University"
+  },
+  {
+   "title": "Managing Technological Transitions: The Importance of Managing the Old Technology",
+   "authors": "Susan Cohen, University of Richmond; Mary Tripsas, Boston College"
+  },
+  {
+   "title": "Gaming a Fashion: Strategic Differentiation and Performance in the U.S. Console Video Game Market",
+   "authors": "Eric Zhao, Indiana University; Masakazu Ishihara, New York University; Dev Jennings and Michael Lounsbury, University of Alberta"
+  },
+  {
+   "title": "A Burden for the Business, a Climb for the Career? The Divergent Effects of Indirect Ties to Competitors on Firms and Individuals",
+   "authors": "Henning Piezunka, INSEAD; Riitta Katila and Kathleen Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Competing with Complementors: An Empirical Look at Amazon.com",
+   "authors": "Feng Zhu, Harvard University; Qihong Liu, University of Oklahoma"
+  },
+  {
+   "title": "Technology, Community, and Collective Resilience: Examining the Response to the Boston Marathon Bombings",
+   "authors": "Christi Lockwood and Mary Ann Glynn, Boston College"
+  },
+  {
+   "title": "From Farms to Fuel Tanks: Differential Effects of Collective Action on Firm Entry in the Emergent U.S. Biodiesel Sector",
+   "authors": "Shon Hiatt, University of Southern California; Chad Carlos, Brigham Young University"
+  },
+  {
+   "title": "Textbook Rebels? How Identity and Activist Tactics Lead to Support for Social Ventures",
+   "authors": "Tyler Wry, University of Pennsylvania; Forrest Briscoe, Pennsylvania State University"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "year": 2008,
+ "held": true,
+ "start_date": "2008-09-05",
+ "end_date": "2008-09-06",
+ "dates_display": "September 5–6, 2008",
+ "host": {
+  "org_id": "stanford-stvp",
+  "unit": "Stanford Technology Ventures Program",
+  "school": "Stanford University"
+ },
+ "place": {
+  "city": "Palo Alto",
+  "city_display": "Palo Alto, CA"
+ },
+ "venue": {
+  "name": "Frances Arillaga Alumni Center, Stanford University",
+  "short": "Arillaga Alumni Center"
+ },
+ "program_pdf": {
+  "file": "2008-wcrs-program.pdf",
+  "source": "2008wcrsprogram.pdf",
+  "legacy_url": null
+ },
+ "highlights": [
+  "The first symposium held away from Seattle.",
+  "Cocktails in the courtyard of the Stanford Faculty Club, hosted by Tom Byers and Kathy Eisenhardt."
+ ],
+ "source_note": "The surviving program is an excerpt from a report to the Kauffman Foundation.",
+ "papers": [
+  {
+   "title": "Innovation by Business Groups in Taiwan, 1981-2000: The Impact of Strategic Scope and Market Development on Local Search Arising from Intra-Group Buyer-Supplier Ties",
+   "authors": "Ishtiaq Mahmood, Chi-Nien Chung, and Will Mitchell, National University of Singapore and Duke University"
+  },
+  {
+   "title": "The Global Technology Collaboration Network: Structure, Trends, and Implications",
+   "authors": "Melissa Schilling, New York University"
+  },
+  {
+   "title": "Network Plasticity and Collaborative Innovation: Pruning and Pairing Processes in Network Reorganization",
+   "authors": "Jason Davis, MIT"
+  },
+  {
+   "title": "Does Money Cost Too Much? The Effect of Going Public on Firm Innovation",
+   "authors": "Geraldine Wu, New York University"
+  },
+  {
+   "title": "Catalyzing Strategies: How Entrepreneurs Accelerate Inter-Organizational Relationship Formation to Secure Professional Investments",
+   "authors": "Benjamin Hallen and Kathleen Eisenhardt, University of Maryland and Stanford University"
+  },
+  {
+   "title": "You Don't Have to be So Cartesian in Dealing with Me: How Emotion Management Affects Resource Mobilization in Start-ups",
+   "authors": "Quy Huy and Christoph Zott, INSEAD"
+  },
+  {
+   "title": "A Creative Projects Perspective on Entrepreneurial Action",
+   "authors": "David Obstfeld, Rodney Lacey, and Yan Gong, University of California – Irvine, University of California – Davis"
+  },
+  {
+   "title": "Elucidating the Process of Experiential Learning: Towards a Construal-based View",
+   "authors": "Christopher Bingham and Jerayr Haleblian, University of North Carolina and University of California – Riverside"
+  },
+  {
+   "title": "Dynamic Capabilities Deconstructed",
+   "authors": "Margaret Peteraf, Dartmouth College"
+  },
+  {
+   "title": "Diversification of Knowledge Assets and Performance: Evidence from the Venture Capital Industry",
+   "authors": "Sharon Matusik and Markus Fitza, University of Colorado"
+  },
+  {
+   "title": "Reputations for Toughness in Patent Enforcement: Implications for Inventor Mobility",
+   "authors": "Rosemarie Ziedonis, Martin Ganco, and Rajshree Argawal, University of Michigan and University of Illinois"
+  },
+  {
+   "title": "Resource Stocks, Innovation and Persistent Heterogeneity",
+   "authors": "Tammy Madsen and Michael Leiblein, Santa Clara University and Ohio State University"
+  },
+  {
+   "title": "Mascot Love: Common Educational Background and Alliance Formation between New Ventures and Established Corporations",
+   "authors": "Cindi Baldi, Ithai Stern and Janet Dukerich, University of Texas – Austin and Northwestern University"
+  },
+  {
+   "title": "Founder Background and the Adoption of Open Science by For-profit Firms",
+   "authors": "Waverly Ding, University of California-Berkeley"
+  },
+  {
+   "title": "The Influence of Founder Identity on Opportunity Identification Processes and Opportunity Exploitation Strategies",
+   "authors": "Sonali Shah, Marc Gruber, and Emmanuelle Fauchart, University of Washington, EPFL, and Conservatoire National des Arts et Metiers"
+  },
+  {
+   "title": "Collective Identity Mobilization in an Emerging Field: The Development of Nanotube Technology",
+   "authors": "Michael Lounsbury, Tyler Wry, and Mary Ann Glynn, University of Alberta and Boston College"
+  },
+  {
+   "title": "Of Porkbellies and Professions: Market Framing and the Creation of Online Advertising Exchanges",
+   "authors": "Peer Fiss and Mark Kennedy, University of Southern California"
+  },
+  {
+   "title": "Executives' Use of Labels in Emerging Domains of Activity",
+   "authors": "Nina Granqvist, Stine Grodal, and Jennifer Wooley, Helskinki School of Economics, Boston University, and Santa Clara University"
+  },
+  {
+   "title": "Entrepreneurial Spawning of Engineers and Scientists: Stars, Slugs, and the Small Firm Effect",
+   "authors": "Daniel Elfenbein, Barton Hamilton, and Todd Zenger, Washington University"
+  },
+  {
+   "title": "High-technology Entrepreneurship in Silicon Valley: Opportunities and Opportunity Costs",
+   "authors": "Robert Fairlie and Aaron Chatterji, University of California – Santa Cruz and Duke University"
+  },
+  {
+   "title": "Venture Capital, Entrepreneurship, and Regional Economic Growth",
+   "authors": "Sampsa Samila and Olav Sorenson, Brock University and University of Toronto"
+  },
+  {
+   "title": "The Creation and Evolution of Trust: The Case of eBay and its Rivals in Online Auctions",
+   "authors": "Suresh Kotha and Andy Wicks, University of Washington and University of Virginia"
+  },
+  {
+   "title": "From Pabst to Pepsi: The Desinstitutionalization of Social Practices and the Creation of Entrepreneurial Opportunities [as printed]",
+   "authors": "Shon Hiatt, Wes Sine, and Pam Tolbert, Cornell University"
+  },
+  {
+   "title": "Competing Institutional Prescriptions and the Inter-Organizational Diffusion of University vs. Firm-origin Technologies",
+   "authors": "Andrew Nelson, University of Oregon"
+  },
+  {
+   "title": "Feel as a Stranger at Home? Performance Differentials Between Returnee and Homegrown Entrepreneurs in China's High Technology Industries",
+   "authors": "Haiyang Li, Yan Zhang, and Li-An Zhou, Rice University and Peking University"
+  },
+  {
+   "title": "Alternative Routes to Commercializing Innovation: Spinoffs vs. Management Buyouts",
+   "authors": "Gaia Rubera and Gerald Tellis, Michigan State University and University of Southern California"
+  },
+  {
+   "title": "Entrepreneurial Finance Meets Corporate Reality: Comparing Investment Practices by Corporate and Independent Venture Capitalists",
+   "authors": "Gary Dushnitsky and Zur Shapiro, University of Pennsylvania and New York University"
+  },
+  {
+   "title": "Crossing the Species Barrier: How Venture Capital Practices Infiltrated the Information Technology Sector",
+   "authors": "Vibha Gaba and Alan Meyer, INSEAD and University of Oregon"
+  },
+  {
+   "title": "Role of Exploratory Subunits in Organizational Ambidexterity: An Inductive Examination of Corporate Venture Capital Units",
+   "authors": "Sandip Basu, Corey Phelps and Suresh Kotha, California State University – East Bay and University of Washington"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "year": 2019,
+ "held": true,
+ "start_date": "2019-09-12",
+ "end_date": "2019-09-13",
+ "dates_display": "September 12–13, 2019",
+ "host": {
+  "org_id": "stanford-stvp",
+  "unit": "Stanford Technology Ventures Program",
+  "school": "Stanford University"
+ },
+ "place": {
+  "city": "Palo Alto",
+  "city_display": "Palo Alto, CA"
+ },
+ "venue": {
+  "name": "Paul Brest Hall, Stanford University",
+  "short": "Paul Brest Hall"
+ },
+ "doctoral_consortium": {
+  "date_display": "Doctoral Student Workshop, September 11, 2019, Stanford"
+ },
+ "program_pdf": {
+  "file": "2019-wcrs-program.pdf",
+  "source": "2019-wcrs-program-3.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2019/08/2019-wcrs-program-3.pdf"
+ },
+ "highlights": [
+  "Welcome by Kathy Eisenhardt and Tina Seelig, Stanford Technology Ventures Program.",
+  "Lunch conversations with Randy Komisar and Aileen Lee (with Tom Byers) and with Steve Blank (with Riitta Katila).",
+  "Dinner at the Stanford Faculty Club."
+ ],
+ "papers": [
+  {
+   "title": "Trust and Disintermediation: Evidence from an Online Freelance Marketplace",
+   "authors": "Grace Gu and Feng Zhu, Harvard University"
+  },
+  {
+   "title": "Platform Competition and Cross-Platform Migration: Why Do App Developers Move from Apple to Google?",
+   "authors": "Yongzhi Wang, The Ohio State University; Lori Yue, University of Southern California; Nandini Rajagopalan, University of Southern California"
+  },
+  {
+   "title": "What's in a Name? Categorical and Idiosyncratic Identity of New Organizations in Nascent Markets",
+   "authors": "Jamie Song and Jason Davis, INSEAD"
+  },
+  {
+   "title": "The Paradox of Platform-Based Entrepreneurship: Competing While Sharing Platform Resources",
+   "authors": "Kevin Boudreau, Northeastern University & NBER; Milan Miric, University of Southern California; Lars Jeppesen, Copenhagen Business School"
+  },
+  {
+   "title": "Leveraging Institutional Intermediaries: Entrepreneurial Strategies to Contact Investors on a Fundraising Platform",
+   "authors": "Willow Wu, Stanford University; Song Wang, Zhejiang University; Charles Eesley, Stanford University"
+  },
+  {
+   "title": "Community-Based Resource Mobilization: How Entrepreneurs Acquire Resources from Distributed Non-Professionals via Crowdfunding",
+   "authors": "Alex Murray, University of Oregon; Suresh Kotha, University of Washington; Greg Fisher, Indiana University"
+  },
+  {
+   "title": "Back to the Future: Technology Reemergence through the Lens of Music Synthesizers",
+   "authors": "Andrew Nelson, University of Oregon; Callen Anthony, New York University; Mary Tripsas, Boston College"
+  },
+  {
+   "title": "Field-Level Paradoxes and the Evolution of an Entrepreneurial Vision",
+   "authors": "Ryan Raffaelli, Harvard Business School; Richard DeJordy, California State University at Fresno"
+  },
+  {
+   "title": "Forced Ecosystems and Digital Stepchildren: The Rise of Social Media Advertising and Barriers to Market Transformation",
+   "authors": "Pinar Ozcan, Warwick Business School; Douglas Hannah, University of Texas at Austin"
+  },
+  {
+   "title": "Spinning an Entrepreneurial Career: Uncovering Motivational Pathways to Venture Success and Serial Entrepreneurship",
+   "authors": "Sonali K. Shah and Hyeonsuh Lee, University of Illinois at Urbana-Champaign; Rajshree Agarwal, University of Maryland"
+  },
+  {
+   "title": "Different Founders, Different Firms: A Comparative Analysis of Academic and Non-Academic Startups",
+   "authors": "Maria Roche, Georgia Institute of Technology; Annamaria Conti, University of Lausanne; Frank Rothaermel, Georgia Institute of Technology"
+  },
+  {
+   "title": "The Entrepreneurial Commercialization of Academic Science: Evidence from \"Twin\" Discoveries",
+   "authors": "Matt Marx, Boston University; David Hsu, Wharton"
+  },
+  {
+   "title": "The Illegitimacy Premium",
+   "authors": "Olenka Kacperczyk, London Business School; Peter Younkin, University of Oregon"
+  },
+  {
+   "title": "Shaping Nascent Industries: Innovation Strategy and Regulatory Uncertainty in Personal Genomics",
+   "authors": "Cheng Gao, University of Michigan; Rory McDonald, Harvard Business School"
+  },
+  {
+   "title": "The Economic Returns from Federal R&D Investment in Small Business: Evidence from the SBIR/STTR Program, 2000-2015",
+   "authors": "Lauren Lanahan, University of Oregon; Amol M. Joshi, Oregon State University; Evan Johnson, University of North Carolina at Chapel Hill"
+  },
+  {
+   "title": "How Revolutions Shape (or Rather Blur) Markets: Initial Insights from the Arab Spring",
+   "authors": "Daniel Armanios, Carnegie Mellon University; Amr Adly, American University of Cairo"
+  },
+  {
+   "title": "Institutional Change and Early-Stage Startup Selection: Evidence from Applicants to Venture Accelerators",
+   "authors": "Valentina Assenova, Wharton"
+  },
+  {
+   "title": "What Kind of Village Fosters Entrepreneurial New Venture Development?",
+   "authors": "Rebecca Karp and Siobhan O'Mahony, Boston University"
+  },
+  {
+   "title": "Marketplace Platforms in the Presence of Social Networks: The Impact of Accelerators on Venture Investment Syndicate Formation",
+   "authors": "Benjamin Hallen, University of Washington; Susan Cohen, University of Georgia"
+  },
+  {
+   "title": "Agency in the Confusion: Google and the Rise of the Online Advertising Market",
+   "authors": "Andrew Hargadon, University of California Davis"
+  },
+  {
+   "title": "Representations, Competencies, and Identity: How Incumbent Innovation Teams Use Product and Process Representations When Market Logics Shift",
+   "authors": "Giacomo Cattaneo, Aarhus University; Victor Seidel, Babson College"
+  },
+  {
+   "title": "To Understand How Technology Impacts Market Creation, Strategy Needs a Theory of Technology: Here It Is",
+   "authors": "Brent Goldfarb and David A. Kirsch, University of Maryland"
+  },
+  {
+   "title": "Fostering a Positive CEO-Board Relationship in New Ventures",
+   "authors": "Sam Garg, Hong Kong University of Science and Technology"
+  },
+  {
+   "title": "Structuring to Sell Ideas: The Role of Organization Design in the Commercialization of Inventions",
+   "authors": "John Eklund, University of Southern California"
+  },
+  {
+   "title": "AI and Humans in the Labor Market? Lessons from Chess",
+   "authors": "Florenta Teodoridis, Milan Miric, and Jinhong Lu, University of Southern California"
+  }
+ ]
+}

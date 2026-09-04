@@ -1,0 +1,90 @@
+{
+ "year": 2022,
+ "held": true,
+ "start_date": "2022-08-04",
+ "end_date": "2022-08-04",
+ "dates_display": "August 4, 2022",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Buerk Center for Entrepreneurship, Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "program_pdf": {
+  "file": "2022-wcrs-program.pdf",
+  "source": "2022-wcrs-program_8.3.22.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2023/11/2022-wcrs-program_8.3.22.pdf"
+ },
+ "highlights": [
+  "A one-day symposium, the first in-person meeting after the virtual 2021 edition."
+ ],
+ "papers": [
+  {
+   "title": "The Disruption that Never Was: A Multi-dimensional Perspective on Technology Substitution",
+   "authors": "Stine Grodal (Northeastern University), Elizabeth Hood (Boston College)"
+  },
+  {
+   "title": "Coherence Within and Across Categories: The Dynamic Viability of Product Categories on Kickstarter",
+   "authors": "Jean-Francois Soubliere (HEC Montreal), Jade Lo (Drexel University), Eunice Rhee (Seattle University)"
+  },
+  {
+   "title": "Crafting Authenticity: Rationalization and the Reconfiguring of Craft-Based Authenticity in the Digital Age",
+   "authors": "Hovig Tchalian (University of Southern California)"
+  },
+  {
+   "title": "Innovation and Profitability Following Antitrust Intervention Against a Dominant Platform: The Wild, Wild West?",
+   "authors": "Sruthi Thatchenkery (University College London), Riitta Katila (Stanford University)"
+  },
+  {
+   "title": "Do Acquisitions Encourage or Deter Entry? Empirical Evidence from the iOS Platform",
+   "authors": "Youngzhi (Alex) Wang (Ohio State University), Nandini Rajagopalan (University of Southern California), Lori Yue (Columbia Business School)"
+  },
+  {
+   "title": "Competitive Interdependence and Alliances Between Ventures",
+   "authors": "Emily Cox Pahnke (University of Washington), Leif Brandle (University of Hohenheim), Toby Li (Texas A&M)"
+  },
+  {
+   "title": "Eureka!: Improving the Effects of Artificial Intelligence on Serendipitous Innovation within Organizations",
+   "authors": "Christian Busch (New York University), Matthew Grimes (Cambridge University)"
+  },
+  {
+   "title": "Going Back is the Future: The Glassbox as a Fountainhead of Inertia",
+   "authors": "Deborah Anderson (University of Alberta)"
+  },
+  {
+   "title": "Developing Entrepreneurial Strategy under Uncertainty: The Role of Strategic Postures",
+   "authors": "David Reetz (Technical University of Munich), Violina Rindova (University of Southern California)"
+  },
+  {
+   "title": "How Investors Shape Who and How Startups Hire",
+   "authors": "Sara Mahabadi (McGill University—University of Alberta), Lisa Cohen (McGill University)"
+  },
+  {
+   "title": "Bad Medicine: Litigation, Competition, and the Marketing of Prescription Opioids",
+   "authors": "David Tan (University of Washington), Niki West (University of Washington)"
+  },
+  {
+   "title": "Recombinant Search at Temporary Gatherings",
+   "authors": "David Clough (University of British Columbia), Tommy Pan Fang (Harvard University), Andy Wu (Harvard University)"
+  },
+  {
+   "title": "Certifying Need: Can expanding certification access help ventures in impoverished communities?",
+   "authors": "Lauren Lanahan (University of Oregon), Daniel Armanios (University of Oxford), Amol Joshi (Wake Forest University), Ouafaa Hmaddi (University of Oregon)"
+  },
+  {
+   "title": "Stigma and Immigrant Entrepreneurship: Black September, Ethnic enclaves, and New Venture Performance in Jordan",
+   "authors": "Ryan Coles (University of Connecticut), Shon Hiatt (University of Southern California), Wesley Sine (Cornell University)"
+  },
+  {
+   "title": "A Confluence of Tech and Talent: Rural Online Entrepreneurship and Return Migration",
+   "authors": "Charles Eesley (Stanford MS&E), Wesley Koo (INSEAD)"
+  }
+ ]
+}

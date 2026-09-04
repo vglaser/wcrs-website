@@ -1,0 +1,114 @@
+{
+ "year": 2017,
+ "held": true,
+ "start_date": "2017-08-31",
+ "end_date": "2017-09-01",
+ "dates_display": "August 31 – September 1, 2017",
+ "host": {
+  "org_id": "alberta-asb",
+  "unit": "Alberta School of Business",
+  "school": "University of Alberta"
+ },
+ "place": {
+  "city": "Edmonton",
+  "city_display": "Edmonton, Alberta"
+ },
+ "venue": {
+  "name": "Stollery Executive Development Centre",
+  "short": "Stollery Executive Development Centre"
+ },
+ "program_pdf": {
+  "file": "2017-wcrs-program.pdf",
+  "source": "2017-program_v3.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2018/08/2017-program_v3.pdf"
+ },
+ "highlights": [
+  "The first symposium hosted by the University of Alberta. Dinner at the University of Alberta Faculty Club."
+ ],
+ "papers": [
+  {
+   "title": "Who Gives Back? Successful Technology Entrepreneurs' Involvement in Social Change",
+   "authors": "Balagopal Vissa and Leena Kinger Hans, INSEAD"
+  },
+  {
+   "title": "Racist on Tuedays: Bias Variability and the Performance of Minority Founders",
+   "authors": "Andreea D. Gorbatai, University of California, Berkeley; Peter Younkin, McGill University; Gord Burtch, University of Minnesota"
+  },
+  {
+   "title": "The Backgrounds of Women Founders of STEM Firms: Success Factors",
+   "authors": "Jennifer Woolley, Santa Clara University"
+  },
+  {
+   "title": "Women Hold Up Half the Sky? Enduring Gender Gap in the Performance of Chinese New Ventures",
+   "authors": "Eric Yanfei Zhao, Indiana University; Ling Yang, Tsinghua University"
+  },
+  {
+   "title": "State Agency Discretion and Entrepreneurship in Regulated Markets: An Analysis of the U.S. Hydroelectric Power Sector",
+   "authors": "Jake B. Grandy and Shon R. Hiatt, University of Southern California"
+  },
+  {
+   "title": "Entrepreneurship, Innovation, and Political Competition: How the Public Sector Helps the Sharing Economy Create Value",
+   "authors": "Yongwook Paik, Washington University in St. Louis; Sukhun Kang, London Business School; Robert Seamans, New York University"
+  },
+  {
+   "title": "Legitimation Spillovers and Piggybacking: How Distributed Successes and Failures Move Market Categories",
+   "authors": "Jean-François Soublière and Joel Gehman; University of Alberta"
+  },
+  {
+   "title": "How Categories Shape the Value of Innovations",
+   "authors": "Tyler Wry, The Wharton School; Adam Castor, Sungkyunkwan University"
+  },
+  {
+   "title": "Same difference? Why audiences fail to recognize distinctiveness in new products",
+   "authors": "David Tan, University of Washington"
+  },
+  {
+   "title": "Weaving Strategic Decisions: Strategy Formation under Novelty, Resource Constraint, and Complexity",
+   "authors": "Timothy E. Ott, University of North Carolina; Kathleen M. Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Exploring Cognitive Flexibility During Early and Rapid Internationalization: Insights from Young Digital Firms",
+   "authors": "Anne Domurath and Nicole Coviello, Wilfrid Laurier University; Holger Patzelt, Technical University of Munich"
+  },
+  {
+   "title": "Globalization in Action: Template, Tensions and Strategies of Action in Kenyan Technology Entrepreneurship",
+   "authors": "Tim Weiss, Zeppelin University; Klaus Weber, Northwestern University"
+  },
+  {
+   "title": "An Assembly Perspective of Entrepreneurial Projects: Social Networks in Action",
+   "authors": "David Obstfeld, California State University, Fullerton; Marc J. Ventresca, University of Oxford; Greg Fisher, Indiana University"
+  },
+  {
+   "title": "Platform Dynamism: Sellers' Responses to Design Change and Implications for Platform Effectiveness",
+   "authors": "Wesley W. Koo and Charles E. Eesley; Stanford University"
+  },
+  {
+   "title": "Do Alliance Networks Solve the Ecosystem Timing Dilemma? Theory and Evidence from the Global Mobile Telecommunications Industry",
+   "authors": "David Clough, University of British Columbia"
+  },
+  {
+   "title": "Configurations of Knowledge-intensive Entrepreneurial Industries: A Small Country Context",
+   "authors": "Amalya L. Oliver and Assaf Amit, The Hebrew University"
+  },
+  {
+   "title": "The Role of Star Scientists in Science-based University Spin-off Emergence",
+   "authors": "V. J. Thomas, University of the Fraser Valley; Elicia Maine, Simon Fraser University; Martin Bliemel, University of New South Wales; Cynthia Shippam-Brett, National Research Council Canada"
+  },
+  {
+   "title": "Entrepreneurship Research, Makers, and the Maker Movement",
+   "authors": "Russell E. Browder and Steven W. Bradley, Baylor University; Howard E. Aldrich, University of North Carolina Chapel Hill"
+  },
+  {
+   "title": "Bullish or Foolish? Collective Expectations, Social Embeddedness, and Diversification in the U.S. Venture Capital Industry",
+   "authors": "Jade YC. Lo, Drexel University; Lei Xu, Texas Tech University; H. Dennis Park, University of Texas at Dallas"
+  },
+  {
+   "title": "Follow the Sun: Value-Chain Positioning in an Emerging Industry",
+   "authors": "Amy Nguyen-Chyung and Yue Maggie Zhou, University of Michigan"
+  },
+  {
+   "title": "Product Innovation Rumors As Forms of Open Innovation",
+   "authors": "Timothy Hannigan, University of Alberta; Victor P. Seidel, Babson College and Harvard University; Basak Yakis-Douglas, King's College London and University of Oxford"
+  }
+ ]
+}

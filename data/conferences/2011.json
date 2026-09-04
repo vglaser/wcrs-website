@@ -1,0 +1,134 @@
+{
+ "year": 2011,
+ "held": true,
+ "dates_display": null,
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "program_pdf": {
+  "file": "2011-wcrs-program.pdf",
+  "source": "2011wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2011wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Nine sessions across three days, several designated “SEJ Special Issue Sessions”.",
+  "Opening comments by the Dean of the Foster School of Business."
+ ],
+ "source_note": "The surviving program is a working draft dated August 4, 2011; it prints no dates or venue.",
+ "papers": [
+  {
+   "title": "Performance Differentials Between Returnee And Home-Grown Entrepreneurs: Evidence From China's Technology Industries",
+   "authors": "Hiyang Li and Co-authors, Rice University"
+  },
+  {
+   "title": "Cutting Your Teeth: Learning from Entrepreneurial Experiences",
+   "authors": "Chuck Eesley, Stanford U."
+  },
+  {
+   "title": "Entrepreneurs' Networking Styles and Personal Network Churn",
+   "authors": "Bala Vissa, INSEAD and Suresh Bhagavatula, IIM, Bangalore"
+  },
+  {
+   "title": "Convergence Or Divergence: Why Some New Ventures Learn Heuristics From Negative Outcomes While Others Do Not",
+   "authors": "Haleblian and Chris Bingham, University of North-Carolina, Chapel-Hill"
+  },
+  {
+   "title": "All The Right Moves: How Entrepreneurs Compete Effectively In New And Old Markets",
+   "authors": "Riitta Katila, Eric Chen and Henning Piezunka, Stanford University"
+  },
+  {
+   "title": "Innovation vs. Invention: Mechanisms that generate new organizational forms",
+   "authors": "Kurt Sandholtz and Walter Powell, Stanford University"
+  },
+  {
+   "title": "How new firms use partnering portfolios to pursue growth: Lessons from Yahoo and Google (1995-2008)",
+   "authors": "Adrian Yeow, NTU and Co-authors"
+  },
+  {
+   "title": "The Market That Wasn't: The Non-Emergence of The Online Grocery Category",
+   "authors": "Chad Navis, U. of Wiscosin-Madison; Greg Fisher, Foster School of Business, U. of Washington; Ryan Raffaelli, Boston College; Mary Ann Glynn, Boston College"
+  },
+  {
+   "title": "Plural Institutional Logics And The Structuring of De Novo Organizational Identities",
+   "authors": "Michael Lounsbury, U. of Alberta School of Business & National Inst. for Nanotechnology; Tyler Wry, Wharton School of Business, U Penn; P. Devereaux Jennings, U. of Alberta School of Business"
+  },
+  {
+   "title": "Corporate Venture Capital as a Window on Technology: Transferring Complementary Knowledge Between Users and Incumbent Firms in the Medical Device Industry",
+   "authors": "Sheryl Winston-Smith, Temple University, and Sonali Shah, Foster School of Business, UW"
+  },
+  {
+   "title": "R&D Performance and Corporate Venture Capital: A Behavioral Perspective",
+   "authors": "Vibha Gaba, INSEAD, Singapore, and Shantanu Battacharya (affiliation printed as \"(affiliation?)\")"
+  },
+  {
+   "title": "Being first or making a difference? A Study of U.S. Venture Capital investments into the Clean Energy sector",
+   "authors": "Antoaneta P. Petkova, San Francisco State University; Anu Wadhwa, Ecole Polytechnique Federale de Lausanne; Xin Yao, Leeds School of Business, U. of Colorado at Boulder; Sanjay Jain, Leavey School of Business, Santa Clara U."
+  },
+  {
+   "title": "The Dangers of Deep Knowledge: New Ventures in the U.S. Solar Industry",
+   "authors": "Nathan Furr and Co-authors, BYU"
+  },
+  {
+   "title": "The Effect of Faculty Founders on the Performance of New Technology Ventures",
+   "authors": "Anne Fuller and Frank Rothaermel, George Tech."
+  },
+  {
+   "title": "Law and Innovation: Evidence from the Uniform Trade Secrets Act",
+   "authors": "Ivan Png, National University of Singapore, Business School"
+  },
+  {
+   "title": "Patents, Materials Transfer Agreements (MTAs), and the Flow of Scientific Knowledge",
+   "authors": "Neil C. Thompson, Haas School of Business, U.C. Berkeley; David C. Mowery, Haas School of Business, U.C. Berkeley and NBER; Arvids A. Ziedonis, Lundquist College of Business, U. of Oregon"
+  },
+  {
+   "title": "Material Strategies of Legitimacy in Sustained Innovation",
+   "authors": "Renee Rottner, Stern School of Business, NYU"
+  },
+  {
+   "title": "Rhetoric And Resonance: Framing, Casuistry, and The Institutionalization of New Market Conceptions",
+   "authors": "Vern L. Glaser, Marshall School of Business USC; Peer C. Fiss, Marshall School of Business, USC; Mark T. Kennedy, Marshall School of Business, USC"
+  },
+  {
+   "title": "What's in a Name? Obliteration, Symbolic Adoption, and Other Finicky Challenges in Tracking Innovation Diffusion",
+   "authors": "Andrew Nelson, Lundquist College of Business U. of Oregon; Andrew Earle, Lundquist College of Business U. of Oregon; Jennifer Howard-Grenville, Lundquist College of Business, U. of Oregon; Julie Haack, Department of Chemistry, U. of Oregon; Doug Young, Department of Chemistry U. of Oregon"
+  },
+  {
+   "title": "Patterns in the Emergence of Nanotechnology: The Case of Fullerenes",
+   "authors": "Sarah Kaplan, Rotman School of Business, U. of Toronto; Keyvan Vakili, Rotman School of Business, U. of Toronto"
+  },
+  {
+   "title": "Technology Shocks in Multi-Sided Markets: The Impact of Craigslist on Local Newspapers",
+   "authors": "Robert Seamans, Stern School of Business, NYU; Zhu Feng, Marshall School of Business, USC"
+  },
+  {
+   "title": "Organizational Resilience in a Collapsing Environment",
+   "authors": "Alan Meyer, Lundquist College of Business, U. of Oregon; Vibha Gaba, INSEAD Singapore"
+  },
+  {
+   "title": "The Co-evolution of Firm Boundaries: The Unfolding Saga of the Boeing 787 Program",
+   "authors": "Suresh Kotha, Foster School of Business, U. of Washington"
+  },
+  {
+   "title": "The Co-Development of Markets And Firms: Business Incubators In Emerging Economies",
+   "authors": "Nilanjana Dutt, Olga Hawn, Elena Vidal, Aaron Chatterji, The Fuqua School of Business, Duke U.; Anita McGahan, Rotman School of Management, U. of Toronto; Will Mitchell, The Fuqua School of Business, Duke U."
+  },
+  {
+   "title": "Startups and Extenders: Knowledge Creation, Transmission and Redeployment in Firm Entry in Nanobiotechnology",
+   "authors": "Lynne G. Zucker, University of California, LA; Michael R. Darby, Anderson Graduate School of Management, UCLA; Nahoko Kameo, University of California, LA"
+  },
+  {
+   "title": "Geographic and Technological Proximity and the Quality of Knowledge of New Ventures",
+   "authors": "Warren Boeker, Foster School of Business, U. of Washington; Sandip Basu, California State University, East Bay; Michael Howard, Foster School of Business, U. of Washington; Arvin Sahayam, Washington State U."
+  },
+  {
+   "title": "Social Movements, Institutional Logics and the Emergence of Electric and Hybrid Drive in the Electric Automotive Community from 1969-2009",
+   "authors": "Byungchae Jin, Beedie School of Business, Simon Fraser"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "year": 2016,
+ "held": true,
+ "start_date": "2016-09-13",
+ "end_date": "2016-09-14",
+ "dates_display": "September 13–14, 2016",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "doctoral_consortium": {
+  "date_display": "Doctoral Student Workshop, September 12, 2016, Paccar Hall, with sessions led by Alan Meyer and Suresh Kotha, Warren Boeker, Andrew Nelson, Joel Gehman, Ben Hallen, Dan Olson, Dev Jennings, Glenn Hoetker, Kathy Eisenhardt, Shon Hiatt, Chuck Eesley, and Maryann Feldman"
+ },
+ "program_pdf": {
+  "file": "2016-wcrs-program.pdf",
+  "source": "2016-wcrs-program-v32.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/05/2016-wcrs-program-v32.pdf"
+ },
+ "highlights": [
+  "Seven sessions over two days; dinner at the UW Club."
+ ],
+ "papers": [
+  {
+   "title": "How Does Feedback Impact Entrepreneurial Performance?",
+   "authors": "Sandy Yu, University of California, Berkeley; Alicia Robb, Kauffman Foundation"
+  },
+  {
+   "title": "Pivoting Isn't Enough: Strategic Reorientation and Identity Management in New Ventures",
+   "authors": "Rory McDonald and Cheng Gao, Harvard Business School"
+  },
+  {
+   "title": "Mental Model Change and Entrepreneurial Entry: The Case of New Space",
+   "authors": "Laura Huang and Anoop Menon, University of Pennsylvania; Tiona Zuzul, London Business School"
+  },
+  {
+   "title": "Social Is the New Financial: How Startups' Social Media Activities Influence Funding Outcomes",
+   "authors": "Fujie Jin, Indiana University; Andy Wu, Harvard Business School; Lorin Hitt, University of Pennsylvania"
+  },
+  {
+   "title": "Expansive Enactment: Dynamic Drivers of Cultural Entrepreneurship",
+   "authors": "Alex Murray and Suresh Kotha, University of Washington; Greg Fisher, Indiana University"
+  },
+  {
+   "title": "The Positive of Negative: How Individuals Acquire Resources",
+   "authors": "Jayaram Uparna, University of California, Irvine; Chris Bingham, University of North Carolina"
+  },
+  {
+   "title": "Twitter Helipad: How a Platform Can Restructure Industry Power and Ecology",
+   "authors": "Henrich R. Greve and Seo Yeon Song, INSEAD"
+  },
+  {
+   "title": "Repeat Winners (or Repeat Offenders): When Does Repeat Certification Help Ventures Acquire Resources?",
+   "authors": "Lauren Lanahan, University of Oregon; Daniel Armanios, Carnegie Mellon University"
+  },
+  {
+   "title": "Status Spillovers",
+   "authors": "Brian Reschke, Brigham Young University; Pierre Azoulay, Massachusetts Institute of Technology; Toby E. Stuart, University of California, Berkeley"
+  },
+  {
+   "title": "Genesis of Pre-Commercialization Innovation Ecosystem: Knowledge Recombination in the Pre-Commercialization Phase of Charge-Coupled Device Image Sensors—1969",
+   "authors": "1994 — Raja Roy, Northeastern Illinois University; MB Sarkar, Temple University"
+  },
+  {
+   "title": "Synchronization: Tradeoffs between Coordination and Competition in Temporal Agglomeration",
+   "authors": "Melissa Schilling, New York University; Joost Rietveld, Erasmus University"
+  },
+  {
+   "title": "Technology Reemergence: Creating New Markets for Old Technologies, Swiss Mechanical Watchmaking 1970–2008",
+   "authors": "Ryan Raffaelli, Harvard Business School"
+  },
+  {
+   "title": "The Colorblind Crowd? Founder Race and Performance in Crowdfunding",
+   "authors": "Peter Younkin, McGill University; Venkat Kuppuswamy, University of North Carolina"
+  },
+  {
+   "title": "When Do High-Growth Ventures Remain Network Isolates? The Drivers of Entrepreneurial Bootstrapping in the Mobile App Ecosystem",
+   "authors": "Benjamin Hallen, University of Washington; Jason Davis, INSEAD; Pai-Ling Yin, University of Southern California"
+  },
+  {
+   "title": "Lowering Entry Barriers (but also Providing Resources): How Governments Spur Founding",
+   "authors": "Daniel Armanios, Carnegie Mellon University; Chuck Eesley, Stanford University"
+  },
+  {
+   "title": "Surviving or Thriving: Community Embeddedness and Startup Performance",
+   "authors": "Robert Eberhart, Santa Clara University; Renee Rottner, UC Santa Barbara"
+  },
+  {
+   "title": "Corporate Strategy & the Wealth of Regions",
+   "authors": "Maryann Feldman and Nichola Lowe, University of North Carolina"
+  },
+  {
+   "title": "Disruptive Events at the Nexus between Corporation and Community: How Accidents and Attacks Affect Market Entry in the Commercial Drone Service Industry",
+   "authors": "Jue Wang and Lori Qingyuan Yue, University of Southern California"
+  },
+  {
+   "title": "Oil and Water: Blending Market and Research Logics in Academic Entrepreneurship",
+   "authors": "Jeff Savage, University of South Carolina"
+  },
+  {
+   "title": "When Collaboration Bridges Institutions: The Impact of Industry Collaboration on Academic Productivity",
+   "authors": "Michaël Bikard and Keyvan Vakili, London Business School; Florenta Teodoridis, University of Southern California"
+  },
+  {
+   "title": "Constructing an Entrepreneurial Ecosystem for Conscious Capitalism: Evidence from Early Moments in the Seattle Region 2007-2014",
+   "authors": "Tracy Thompson and Jill Purdy, UW Tacoma; Marc Ventresca, University of Oxford"
+  }
+ ]
+}

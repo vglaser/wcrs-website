@@ -1,0 +1,24 @@
+# Rebuilds the site on the first of each month so "next conference" rolls over without a human,
+# and on every push in case someone edits data and forgets to run build.py.
+name: rebuild
+on:
+  schedule:
+    - cron: "17 6 1 * *"
+  push:
+    branches: [main]
+    paths: ["data/**", "build.py", "assets/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 build.py
+      - run: |
+          git config user.name "wcrs-build"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Rebuild site ($(date -u +%Y-%m-%d))"
+          git push

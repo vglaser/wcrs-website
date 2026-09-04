@@ -1,0 +1,123 @@
+{
+ "year": 2010,
+ "held": true,
+ "start_date": "2010-08-27",
+ "end_date": "2010-08-28",
+ "dates_display": "August 27–28, 2010",
+ "host": {
+  "org_id": "oregon-lundquist",
+  "unit": "Lundquist Center for Entrepreneurship",
+  "school": "University of Oregon"
+ },
+ "place": {
+  "city": "Eugene",
+  "city_display": "Eugene, OR"
+ },
+ "venue": {
+  "name": "Lillis Business Complex",
+  "short": "Lillis Business Complex"
+ },
+ "program_pdf": {
+  "file": "2010-wcrs-program.pdf",
+  "source": "2010wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2010wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Six sessions with named discussants, including parallel sessions on Saturday morning.",
+  "Reception and dinner by the Willamette River, followed by Garrison Keillor's Prairie Home Companion show."
+ ],
+ "papers": [
+  {
+   "title": "Innovation Ecosystems and the Pace of Substitution: Re-examining Technology S-curves",
+   "authors": "Ron Adner, Tuck School, Dartmouth and Rahul Kapoor, Wharton School, Univ. Pennsylvania"
+  },
+  {
+   "title": "From Biotechnology Insights to Breakthrough Commercialization: A Legitimacy-Based View",
+   "authors": "Marc Ahn, Atkinson School, Willamette Univ.; Anne York, Creighton Univ.; So Young Sohn, Yonsei Univ.; and Payam Benyamini, UCLA"
+  },
+  {
+   "title": "Brokers or Bullies: Board of Directors and Excessive Influence in Alliance Portfolio Emergence among de Novo Organizations",
+   "authors": "Claudia Bird Schoonhoven, Christine Beckman, and Renee Rottner, U.C. Irvine"
+  },
+  {
+   "title": "Categorization by Association: Nuclear Technology and Emission Free Electricity",
+   "authors": "Raghu Garud and Joel Gehman, Pennsylvania State Univ., and Peter Karnoe, Copenhagen Business School"
+  },
+  {
+   "title": "Scientists as Signals: Social and Human Capital in the Underpricing of Life Sciences IPOs",
+   "authors": "Jay Inghwee Chok and Mark Kennedy, Univ. of Southern California"
+  },
+  {
+   "title": "The Impact of Funding Sources on Innovation in New Firms",
+   "authors": "Emily Cox, Univ. of Washington and Riitta Katila, Stanford Univ."
+  },
+  {
+   "title": "Medium and Message: The Role of the Media in Establishing Institutional Logics",
+   "authors": "Mukti Khaire, Harvard Business School"
+  },
+  {
+   "title": "Before Identity: The Emergence of New Organizational Forms",
+   "authors": "Marlena Fiol, Univ. of Colorado, Denver and Elaine Romanelli, Georgetown Univ."
+  },
+  {
+   "title": "Organizational Mechanisms of Inclusive Growth: A Critical Realist Perspective on Scaling",
+   "authors": "Christian Seelos and Johanna Mair, IESE Business School"
+  },
+  {
+   "title": "Pitch Perfect: Affective Content vs. Style in Entrepreneur Presentations",
+   "authors": "Anthony Briggs and Lakshmi Balachandra, Univ. of Alberta"
+  },
+  {
+   "title": "Serial Entrepreneurs and Venture Performance: Evidence from U.S. Venture-Capital-Financed Semiconductor Firms",
+   "authors": "Yongwook Paik, Univ. of Southern California"
+  },
+  {
+   "title": "Knowledge Inheritance and the Quality of Knowledge in New Ventures",
+   "authors": "Warren Boeker, Univ. of Washington; Sandip Basu, California State Univ., East Bay; Michael Howard, Univ. of Washington; Arvin Sahaym, Washington State Univ."
+  },
+  {
+   "title": "Prior Knowledge, Intellectual Property and New Firm Survival",
+   "authors": "Sonali Shah, Univ. of Washington and Sheryl Winston-Smith, Temple Univ."
+  },
+  {
+   "title": "The Firms Strike Back: Post-employment Restraints and the Inalienability of Expertise",
+   "authors": "Matt Marx, Sloan School, MIT"
+  },
+  {
+   "title": "When Does Affiliation with Reputable Alliance Partners Pay Off? Evidence from Biotechnology Commercialization Alliances",
+   "authors": "David Hsu, Wharton School, Univ. Pennsylvania; Simon Wakeman, European School of Science & Technology"
+  },
+  {
+   "title": "The Value of Porous Thickets",
+   "authors": "Michael Heeley, Colorado School of Mines"
+  },
+  {
+   "title": "Vicarious Learning in the Globalization of Venture Capital",
+   "authors": "David Major, Indiana Univ.; R. Scott Livengood, David Waguespack, and Anil Gupta, Univ. of Maryland"
+  },
+  {
+   "title": "Venturing into New Territory: Prior Experience of Corporate Venture Capital Managers and Investment Practices",
+   "authors": "Gina Dokko, Univ. of California, Davis and Vibha Gaba, INSEAD"
+  },
+  {
+   "title": "Looking within Multi-partner Alliances: The Influence of Coalitions, Competition, and Power",
+   "authors": "Ralph Heidl and Kevin Steensma, Univ. of Washington, and Corey Phelps, HEC Paris"
+  },
+  {
+   "title": "How Audiences Vary in their Interpretation of Historic Performance and Status Signals: A Study of Entrepreneurs Evaluating Venture Capitalists' Quality",
+   "authors": "Benjamin Hallen, Univ. of Maryland"
+  },
+  {
+   "title": "Agency and Knowledge Problems in Network Dynamics: Brokers and Bridges in Innovative Interorganizational Relationships",
+   "authors": "Jason Davis, Sloan School, MIT"
+  },
+  {
+   "title": "A Spatial Ecology of Structural Holes: Scientists and Communication at a Biotechnology Firm",
+   "authors": "Christopher Li, Univ. of Toronto"
+  },
+  {
+   "title": "Funnels and Filters: When Networks Channel Intra-Organizational Knowledge Flows",
+   "authors": "Craig Rawlings, Stanford Univ."
+  }
+ ]
+}

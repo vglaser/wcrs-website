@@ -1,0 +1,115 @@
+{
+ "year": 2012,
+ "held": true,
+ "start_date": "2012-09-07",
+ "end_date": "2012-09-08",
+ "dates_display": "September 7–8, 2012",
+ "host": {
+  "org_id": "usc-greif",
+  "unit": "Lloyd Greif Center for Entrepreneurial Studies, USC Marshall",
+  "school": "University of Southern California"
+ },
+ "place": {
+  "city": "Los Angeles",
+  "city_display": "Los Angeles, CA"
+ },
+ "venue": {
+  "name": "Ronald Tutor Campus Center, USC",
+  "short": "Tutor Campus Center"
+ },
+ "program_pdf": {
+  "file": "2012-wcrs-program.pdf",
+  "source": "2012wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2012wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Welcome by John Matsusaka, Vice Dean of Faculty and Academic Affairs.",
+  "Tenth Anniversary Celebration Dinner on the Friday evening."
+ ],
+ "papers": [
+  {
+   "title": "Leaving Money on the Table: Knowledge Underexploitation Within Incumbent Firms and Employee Entrepreneurship",
+   "authors": "Alfonso Gambardella, Bocconi University; Martin Ganco, University of Minnesota; Florence Honore, University of Minnesota"
+  },
+  {
+   "title": "Filthy Lucre: What Motivates the Commercialization of Innovations?",
+   "authors": "Ethan Mollick, University of Pennsylvania"
+  },
+  {
+   "title": "Entrepreneurship Versus Intrapreneurship in Mutual Funds: Evidence About Alternative Opportunity Structures in Established Firms",
+   "authors": "Aleksandra Kacperczyk, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "One Foot In, One Foot Out: How Individual Search Behavior Affects Innovation Outcomes",
+   "authors": "Linus Dahlander, European School of Management and Technology; Siobhan O'Mahony, Boston University; David Gann, Imperial College"
+  },
+  {
+   "title": "Taste for Science, Taste for Commercialization, and Hybrid Scientists",
+   "authors": "Henry Sauermann, Georgia Institute of Technology; Michael Roach, Duke University"
+  },
+  {
+   "title": "How Original Ideas Earn Recognition: The Role of Contextual Positioning",
+   "authors": "Dennis Trapido, University of California, Irvine"
+  },
+  {
+   "title": "Learning or Leakage? How Indirect Ties to Competitors Hurt Firm Innovation",
+   "authors": "Emily Cox, University of Washington; Rory McDonald, University of Texas, Austin; Dan Wang, Stanford University"
+  },
+  {
+   "title": "Dangerous Relations: The Interplay of Legal, Temporal, and Social Defenses in the Formation of Corporate Venture Capital Relationships",
+   "authors": "Ben Hallen, London Business School; Riitta Katila, Stanford University; Jeff Rosenberger, Wealthfront"
+  },
+  {
+   "title": "Ties That Bind? The Differential Ability of De Alio and De Novo Firms to Leverage External Relationships When Confronted with a Disruptive Technology",
+   "authors": "Rajshree Agarwal, University of Maryland; Pao-Lien Chen, National Tsing Hua University; Glenn Hoetker, Arizona State University"
+  },
+  {
+   "title": "Unpacking Functional Alliance Portfolios: How Signals of Viability Affect Young Firms' Outcomes",
+   "authors": "Manuela Hoehn-Weiss, University of Washington, Bothell; Samina Karim, Boston University"
+  },
+  {
+   "title": "Technology Commercialization Strategy Dynamics and Entrepreneurial Performance: Evidence from the Speech Recognition Industry",
+   "authors": "Matt Marx, Massachusetts Institute of Technology; David Hsu, University of Pennsylvania"
+  },
+  {
+   "title": "Failure is an Option: Failure Barriers and New Firm Performance",
+   "authors": "Robert Eberhart, Stanford University; Charles Eesley, Stanford University; Kathy Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Where Institutional Logics Meet Innovation Pathways: Internet Search and the Puzzle of Librarians",
+   "authors": "Andrew Nelson, University of Oregon; Jennifer Irwin, University of Oregon"
+  },
+  {
+   "title": "Testing, Contesting and Legitimizing Technology Diffusion in Regulated Environments",
+   "authors": "Stephane Guerard, University of Zurich; Ann Langley, HEC Montreal"
+  },
+  {
+   "title": "Gone with the Wind: Industry Development and the Evolution of Social Movement Influence",
+   "authors": "Chad Carlos, Cornell University; Wesley Sine, Cornell University; Brandon Lee, London Business School; Heather Haveman, University of California, Berkeley"
+  },
+  {
+   "title": "Early-Stage Evolution of Technology Ventures",
+   "authors": "Mike Lawless, University of San Diego; Phil Anderson, INSEAD"
+  },
+  {
+   "title": "Weathering the Storm: Entrepreneurial Identity and Organizational Resilience",
+   "authors": "Erin Powell, North Carolina State University; Ted Baker, North Carolina State University"
+  },
+  {
+   "title": "The Effect of International Intensity on the Survival of Young Firms: The Moderating Roles of Firm Age and Social Capital",
+   "authors": "Helena Yli-Renko, University of Southern California; Harry Sapienza, University of Minnesota; Ramkumar Janakiraman, Texas A&M University; Dalhia Mani, HEC Paris"
+  },
+  {
+   "title": "Organization Architecture and Dynamic Capabilities: Microfoundations of Network Racing in Dynamic Markets",
+   "authors": "Jason Davis, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "Contracting for Innovation: Defining an Exchange that Fosters Creativity While Mitigating Opportunism",
+   "authors": "Kyle Mayer, University of Southern California; Pablo Mondal, University of Southern California"
+  },
+  {
+   "title": "The Private Value of Patents for Entrepreneurial Ventures: Evidence from Medical Devices, Semiconductors, and Software",
+   "authors": "Arvids Ziedonis, University of Oregon; Rosemarie Ziedonis, University of Oregon"
+  }
+ ]
+}

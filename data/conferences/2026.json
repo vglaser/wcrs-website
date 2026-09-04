@@ -1,0 +1,278 @@
+{
+ "year": 2026,
+ "held": true,
+ "start_date": "2026-09-08",
+ "end_date": "2026-09-10",
+ "dates_display": "September 8–10, 2026",
+ "dates_note": "Arrival and check-in September 7",
+ "host": {
+  "org_id": "alberta-asb",
+  "unit": "Alberta School of Business",
+  "school": "University of Alberta",
+  "detail": "Department of Strategy, Entrepreneurship and Management, and the Alberta Business Family Institute",
+  "contact_person_id": "glaser",
+  "contact_role": "Conference and registration"
+ },
+ "place": {
+  "city": "Banff",
+  "city_display": "Banff, Alberta"
+ },
+ "venue": {
+  "name": "The Banff Centre for Arts and Creativity",
+  "short": "The Banff Centre",
+  "rooms": "Sessions in Max Bell 252; opening dinner in Kinnear Centre 101; breakfasts and lunches at Vistas"
+ },
+ "theme": "Entrepreneurial Resilience and Agentic AI in Technology Entrepreneurship",
+ "theme_short": "entrepreneurial resilience and agentic AI",
+ "keynote": {
+  "speaker": "Kathleen M. Eisenhardt",
+  "affiliation": "Stanford University",
+  "title": "Entrepreneur as Preschooler: The Process Perspective on Entrepreneurial Performance",
+  "when": "September 8, 7:00 PM"
+ },
+ "doctoral_consortium": {
+  "date": "2026-09-08",
+  "date_display": "Tuesday, September 8",
+  "room": "Max Bell 252",
+  "organizers": [
+   {
+    "name": "Sara Mahabadi",
+    "school": "University of Alberta"
+   },
+   {
+    "name": "Daphné Baldassari",
+    "school": "University of Southern California"
+   },
+   {
+    "name": "Mana Heshmati",
+    "school": "University of Washington"
+   },
+   {
+    "name": "Sung Park",
+    "school": "University of Oregon"
+   }
+  ],
+  "program_pdf": {
+   "file": "2026-wcrs-doctoral-consortium-program.pdf",
+   "source": "wcrs-2026-doctoral-consortium-program.pdf",
+   "legacy_url": null
+  }
+ },
+ "call_for_papers": {
+  "deadline": "2026-05-15",
+  "deadline_display": "May 15, 2026",
+  "emphasis_short": "entrepreneurial resilience and agentic AI",
+  "emphasis": "how algorithmic agents, autonomous technologies, and AI-driven systems are reshaping entrepreneurial processes, organizational routines, and technology ventures",
+  "paragraphs": [
+   "We invite authors to submit papers to our research symposium, a lively forum for the exchange of ideas among scholars interested in technology entrepreneurship. The 2026 conference will be held at The Banff Centre in Banff, Alberta, a conference centre in the Canadian Rockies, hosted by the Alberta School of Business at the University of Alberta.",
+   "Papers focusing on entrepreneurship and innovation in technology-based settings will be given preference. In addition to our broad focus on technology entrepreneurship, for 2026 we especially encourage submissions from authors examining entrepreneurial resilience and agentic AI: how algorithmic agents, autonomous technologies, and AI-driven systems are reshaping entrepreneurial processes, organizational routines, and technology ventures. We are open to a wide variety of perspectives on these topics.",
+   "We expect to host an intimate conference of 50+ leading scholars from around the world. The conference steering committee invites the submission of unpublished working papers that advance the state of knowledge on technology entrepreneurship. Please note that WCRS rules require faculty members to present. Thus, while submissions that include graduate student co-authors are welcomed and encouraged, a faculty co-author will be expected to attend and present."
+  ],
+  "submissions_note": "Submissions are handled by the University of Washington (Emily Cox Pahnke).",
+  "closing_line": "We hope to see you in Banff!"
+ },
+ "committee_ids": [
+  "katila",
+  "lounsbury",
+  "glaser",
+  "beckman",
+  "tripsas",
+  "nelson",
+  "hiatt",
+  "cox-pahnke"
+ ],
+ "sponsor_ids": [
+  "stanford-stvp",
+  "alberta-asb",
+  "ucsb-tmp",
+  "oregon-lundquist",
+  "usc-greif",
+  "uw-cbdc",
+  "uw-buerk"
+ ],
+ "key_dates": [
+  {
+   "date": "2026-05-15",
+   "kind": "deadline",
+   "what": "Paper submission deadline"
+  },
+  {
+   "date": "2026-07-20",
+   "kind": "deadline",
+   "what": "Registration deadline"
+  },
+  {
+   "date": "2026-08-07",
+   "kind": "deadline",
+   "what": "Hotel room-block rate closes"
+  },
+  {
+   "date": "2026-09-08",
+   "kind": "event",
+   "what": "Doctoral consortium · opening dinner and keynote"
+  },
+  {
+   "date": "2026-09-09",
+   "end_date": "2026-09-10",
+   "kind": "event",
+   "what": "Paper sessions · concludes at lunch on the 10th"
+  }
+ ],
+ "travel": {
+  "address": "107 Tunnel Mountain Drive, Banff, Alberta, Canada",
+  "phone": "403.907.9849",
+  "intro": "The Banff Centre offers on-site accommodation at a group rate for conference attendees; registration and accommodation details are shared with accepted authors, and participants book their own lodging. Attendees are free to explore the town of Banff on the evening of September 9.",
+  "sections": [
+   {
+    "title": "Getting to the Banff Centre",
+    "text": "Calgary International Airport is the closest airport to Banff, a two-hour drive away. The Banff Airporter is the official airport shuttle provider of the Banff Centre and drops travellers at the Professional Development Centre, where the front desk is located; book at banffairporter.com or by phone at 403.762.3330 (1.888.449.2901 toll-free in North America). Brewster Express also offers daily motor-coach shuttles from the airport to Banff; reservations are required.",
+    "links": [
+     {
+      "label": "Calgary International Airport",
+      "url": "https://www.yyc.com/"
+     },
+     {
+      "label": "Banff Airporter",
+      "url": "https://www.banffairporter.com/"
+     },
+     {
+      "label": "Brewster Express",
+      "url": "https://www.banffjaspercollection.com/brewster-express/"
+     },
+     {
+      "label": "Car rentals at the airport",
+      "url": "https://www.yyc.com/en-us/transportation/car-rentals"
+     }
+    ]
+   },
+   {
+    "title": "Park pass and getting around",
+    "text": "All visitors need a park pass to enter Banff National Park. Buy one in advance from the Town of Banff or on arrival at the Banff Visitor Centre. The town's transportation page covers local transit.",
+    "links": [
+     {
+      "label": "Buy a national park pass",
+      "url": "https://banff.ca/939/Buy-a-National-Park-Pass"
+     },
+     {
+      "label": "Town of Banff transportation",
+      "url": "https://banff.ca/1058/Transportation"
+     }
+    ]
+   },
+   {
+    "title": "On foot from the Centre",
+    "text": "Campus trails, 20–30 minutes. Surprise Corner viewpoint over the Bow Valley, 30–40 minutes. Bow River and Bow Falls, 45–60 minutes. Into the town of Banff, 35–45 minutes: downhill out, uphill back. September is elk rut; keep well back and give them the trail. Banff sits at roughly 1,400 metres, so dress in layers.",
+    "links": []
+   },
+   {
+    "title": "At the Centre",
+    "text": "Maps, directions, and self-parking information are on the Banff Centre website.",
+    "links": [
+     {
+      "label": "Banff Centre maps and directions",
+      "url": "https://www.banffcentre.ca/maps-directions"
+     },
+     {
+      "label": "banffcentre.ca",
+      "url": "https://www.banffcentre.ca/"
+     }
+    ]
+   }
+  ]
+ },
+ "photo": {
+  "file": "banff-aerial.jpg",
+  "alt": "Aerial view of the Banff Centre for Arts and Creativity below Mount Rundle",
+  "credit": "The Banff Centre for Arts and Creativity · Photo by Don Lee"
+ },
+ "program_pdf": {
+  "file": "2026-wcrs-program.pdf",
+  "source": "wcrs-2026-conference-program.pdf",
+  "legacy_url": null
+ },
+ "highlights": [
+  "Opening reception and dinner Tuesday, September 8, followed by the Eisenhardt keynote and a tribute to the WCRS founders.",
+  "Six facilitated sessions over September 9–10; each paper has 20 minutes, with general discussion at the close of each session.",
+  "Facilitators: Mary Tripsas, Andrew Nelson, Michael Lounsbury, Christine Beckman, Vern Glaser, Emily Cox Pahnke.",
+  "Welcome and closing remarks by Vern Glaser, University of Alberta. The conference concludes after lunch on September 10."
+ ],
+ "source_note": "Program PDFs dated August 12, 2026; details may change before the event.",
+ "papers": [
+  {
+   "title": "Composting the Dead: How Organizations Introduce and Frame Taboo Innovations",
+   "authors": "Liz Hood (University of Southern California); Tuo Liu, Bess Rouse (Boston College); Andrew Nelson (University of Oregon)"
+  },
+  {
+   "title": "Animating Meaning: How AI-Generated Representations Reshape Distant Knowledge Recombination and Innovation",
+   "authors": "Ting Xiao (University of California Santa Barbara)"
+  },
+  {
+   "title": "Vision–Reality Gap: Field Coalescence and Bifurcation in the Evolution of Robotics (1962–2005)",
+   "authors": "Mia Chang-Zunino (ESCP Business School); Stine Grodal (Northeastern University)"
+  },
+  {
+   "title": "From Mastery to Procedural Fluency: The Know-How of Fast-Skilling",
+   "authors": "Dilan Eren (Ivey Business School, Western University)"
+  },
+  {
+   "title": "Borrowed Cognition: How AI Exposure Impacts Idea Generation and Evaluation",
+   "authors": "Mana Heshmati (University of Washington); Cha Li (University of Texas at Austin)"
+  },
+  {
+   "title": "Temporal Meta-Uncertainty in Algorithmically Mediated Organizations: How Heterogeneous Forecasting Infrastructures Transform Judgment Under Uncertainty",
+   "authors": "Natasha Overmeyer (University of Oregon)"
+  },
+  {
+   "title": "The Public Trajectory of Vibe Coding: How a Theory of Work Becomes a Regime of Knowing",
+   "authors": "Vern Glaser, Jennifer Kotadia (University of Alberta)"
+  },
+  {
+   "title": "Writing the Playbook: The Codification and Transformation of Entrepreneurial Claims on Kickstarter",
+   "authors": "Jean-François Soublière (HEC Montréal); Joel Gehman (George Washington University)"
+  },
+  {
+   "title": "Market Responses to AI Statements in Creative Domains",
+   "authors": "Ming zhu Wang, Mana Heshmati (University of Washington)"
+  },
+  {
+   "title": "New Venture Name Selection and Capital Acquisition in Late Imperial Russia, 1861–1913",
+   "authors": "Chad Carlos (Brigham Young University); Olga Khessina (University of Illinois); Samira Reis (Universidad Carlos III de Madrid)"
+  },
+  {
+   "title": "Lost Science or Lost Scientists? Gender and the 2025 NIH Grant Terminations",
+   "authors": "Daphné Baldassari (University of Southern California); Andy Back (Hong Kong University); Nicola Lacetera (University of Bologna)"
+  },
+  {
+   "title": "Gendered Discount in Distant Search Among Early-Stage Entrepreneurs",
+   "authors": "Jamie Song (ESMT Berlin); Yonghoon Lee (Texas A&M University)"
+  },
+  {
+   "title": "Generative AI and Entrepreneurial Entry",
+   "authors": "Bowen Lou (University of Southern California); Jiayi Bao (Texas A&M University); Hongshen Sun (Massachusetts Institute of Technology)"
+  },
+  {
+   "title": "Plug and Pray: Leveraging Data and Algorithms to Organize with the Cloud",
+   "authors": "Alan Zhang (Columbia Business School); Wanda Orlikowski (Massachusetts Institute of Technology)"
+  },
+  {
+   "title": "When Growth Outpaces Sustainability: Infrastructure Constraints in AI-Driven Data Center Expansion",
+   "authors": "Angela Ryu, Shon Hiatt (University of Southern California)"
+  },
+  {
+   "title": "Crowdfunding and Transformational Entrepreneurship: Evidence from a Cross-Country Quasi-Experiment",
+   "authors": "Sandy Yu (University of Minnesota); Yi Ding (Warwick Business School); Jin Chen (University of Nottingham Ningbo China); Jason Chan (University of Minnesota)"
+  },
+  {
+   "title": "Survival is Triumph Enough: The Rhythmic Resilience Process of Entrepreneurs in Chronic Adversity Compounded by Acute Shocks",
+   "authors": "Ramzi Fathallah (University of Ottawa); Trenton Williams (BYU-Marriott School of Business); Jay Joseph (American University of Beirut)"
+  },
+  {
+   "title": "On the Basis of Sacred Bonds: Sacred Social Capital and Entrepreneurial Renewal Following the Financial Crisis",
+   "authors": "Andrew Foley (New York University (Stern)); Derek Lief (Fordham University); Tobias Bruegger (Copenhagen Business School)"
+  },
+  {
+   "title": "From Digital Entrepreneurs to Digital Activists: Dynamics and Counter-Dynamics in a Case of Imposed Activism",
+   "authors": "Sara Mahabadi, Jennifer Jennings (University of Alberta)"
+  }
+ ]
+}

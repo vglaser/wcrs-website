@@ -1,0 +1,114 @@
+{
+ "year": 2014,
+ "held": true,
+ "start_date": "2014-09-04",
+ "end_date": "2014-09-05",
+ "dates_display": "September 4–5, 2014",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Buerk Center for Entrepreneurship, Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "program_pdf": {
+  "file": "2014-wcrs-program.pdf",
+  "source": "2014wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2014wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Dinner at Ristorante Picolinos."
+ ],
+ "papers": [
+  {
+   "title": "Competing in New Markets and the Search for a Viable Business Model",
+   "authors": "Rory McDonald, Harvard University; Kathleen M. Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Enchanting Exchange: Evidence from the Maker Movement",
+   "authors": "Andreea Gorbatai and Cyrus Dioun, University of California, Berkeley"
+  },
+  {
+   "title": "Market Mediators and the Tradeoffs of Legitimacy-Seeking Behaviors in a Nascent Category",
+   "authors": "Brandon H. Lee, University of Melbourne; Shon R. Hiatt, University of Southern California; Michael Lounsbury, University of Alberta"
+  },
+  {
+   "title": "Compensating Conformity: Resolving the Tension Between Economic Incentives and Organizational Legitimacy",
+   "authors": "Robert N. Eberhart, Santa Clara University; Charles E. Eesley and Kathleen M. Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Blurred Lines: Familial and Entrepreneurial Logics in a Family Technology Venture",
+   "authors": "Melissa E. Graebner, Suho Han, and Philip T. Roundy, University of Texas, Austin"
+  },
+  {
+   "title": "Hybrid Logic Emergence in the Wind Energy Field: Exploring the Interplay of Organizational Responses and Field-Level Change",
+   "authors": "Jeffrey G. York, University of Colorado, Boulder; Timothy J. Hargrave, Seattle University; Desiree F. Pacheco, Portland State University"
+  },
+  {
+   "title": "Is There a Doctor in the House? The Impact of Users on Innovation in Medical Device Ventures",
+   "authors": "Michael Q. Christensen, Riitta Katila, Sruthi Thatchenkery, and Stefanos Zenios, Stanford University"
+  },
+  {
+   "title": "Falling Not Far from the Tree: Entrepreneurs and Organizational Heritage",
+   "authors": "Maryann P. Feldman, University of North Carolina; Serden Ozcan and Toke Reichstein, Copenhagen Business School"
+  },
+  {
+   "title": "Prestige Discount: Director Exit and Firm Performance in Newly Public Ventures",
+   "authors": "Samuel Garg and Qiang Li, Hong Kong University of Science and Technology"
+  },
+  {
+   "title": "Collaboration and Prominence in Innovation Teams: Product Introductions in Entrepreneurial Ventures",
+   "authors": "Emily Cox Pahnke and Warren Boeker, University of Washington"
+  },
+  {
+   "title": "Born to be Wild: Innovation Paths and Complex Adaptive Systems",
+   "authors": "Tyler Wry and Daniel Albert, University of Pennsylvania; Eric Zhao, Indiana University"
+  },
+  {
+   "title": "Cultural Tastes and Technology Capabilities: Examining the Shift from Analog to Digital Sound Synthesis",
+   "authors": "Andrew Nelson, University of Oregon; Mary Tripsas and Callen Anthony, Boston College"
+  },
+  {
+   "title": "A Crowd of Fools? Comparing Explanations for Why Informal Investors Support a New Venture",
+   "authors": "Peter Younkin, McGill University; Keyvan Kashkooli, University of California, Los Angeles"
+  },
+  {
+   "title": "Wisdom or Madness? Comparing Crowds with Expert Evaluation in Funding the Arts",
+   "authors": "Ethan Mollick, University of Pennsylvania; Ramana Nanda, Harvard University"
+  },
+  {
+   "title": "The Role of Social Media in the Market for Initial Public Offerings",
+   "authors": "Abhishek Borah, Suresh Kotha, Uisung David Park, and Emily Cox Pahnke, University of Washington"
+  },
+  {
+   "title": "\"Invisible\" Innovation: Evidence from the Automotive Supply Chain",
+   "authors": "Susan Helper, Case Western Reserve University; Jennifer Kuan, Stanford University"
+  },
+  {
+   "title": "The Jekyll and Hyde Effect of Learning to Contract: Impact of Contract Frames and Attribution Biases on Future Transactions",
+   "authors": "Libby Weber, University of California, Irvine"
+  },
+  {
+   "title": "Corporate Governance in Entrepreneurial Firms: Effects of Corporate Venture Capital and Founder Incumbents on R&D Investment Strategy",
+   "authors": "Heejin Woo and Yongwook Paik, University of Southern California"
+  },
+  {
+   "title": "Crowding Out Effects of Well-Intended Environmental Policies",
+   "authors": "Richard A. Hunt, Virginia Polytechnic Institute; Bret R. Fund, University of Colorado"
+  },
+  {
+   "title": "Does Financing Matter for Targets of Litigation?",
+   "authors": "David Tan, University of Washington; Jie Yang, Georgetown University"
+  },
+  {
+   "title": "Blooming Where They're Planted or Seeking Greener Pastures: Linking Location and Success among University-Backed Startups",
+   "authors": "David Benson and Paul C. Godfrey, Brigham Young University"
+  }
+ ]
+}

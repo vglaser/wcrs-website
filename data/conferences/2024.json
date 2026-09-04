@@ -1,0 +1,99 @@
+{
+ "year": 2024,
+ "held": true,
+ "start_date": "2024-09-12",
+ "end_date": "2024-09-13",
+ "dates_display": "September 12–13, 2024",
+ "host": {
+  "org_id": "oregon-lundquist",
+  "unit": "Lundquist College of Business",
+  "school": "University of Oregon"
+ },
+ "place": {
+  "city": "Eugene",
+  "city_display": "Eugene, OR"
+ },
+ "venue": {
+  "name": "Lillis Business Complex",
+  "short": "Lillis Business Complex"
+ },
+ "program_pdf": {
+  "file": "2024-wcrs-program.pdf",
+  "source": "2024-wcrs-program_09.2024.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2025/04/2024-wcrs-program_09.2024.pdf"
+ },
+ "highlights": [
+  "Dean's welcome; PhD student elevator pitches between sessions on Day 1.",
+  "Day 1 dinner on the rooftop of the Graduate Hotel."
+ ],
+ "papers": [
+  {
+   "title": "Configuring Medical Expertise: How AI Algorithms Are Transforming Medical Decision-Making",
+   "authors": "Vern Glaser (University of Alberta), Luciana D'Adderio, Eric Monteiro, Neil Pollock"
+  },
+  {
+   "title": "Decoupled Learning Among Medical Trainees and Artificial Intelligence",
+   "authors": "Bryan Spencer (University of Alberta)"
+  },
+  {
+   "title": "The Folding Effect: The Reframed Distance and Technological Search",
+   "authors": "Sukhun Kang (UC Santa Barbara)"
+  },
+  {
+   "title": "Meating Expectations: Legitimizing New Categories and Transmuting Existing Ones",
+   "authors": "Eunice Rhee (Seattle University), Jade Lo (Drexel University), Rodolphe Durand"
+  },
+  {
+   "title": "Miniature Storytelling in Crowdfunding: The Role of Visual Congruence and Verbal Distinctiveness",
+   "authors": "Rui Wang, Joel Gehman (George Washington University)"
+  },
+  {
+   "title": "The Cloak of Anonymity and the Embrace of Failure: How Virtual Communities Foster Psychological Safety for Entrepreneurial Failure Sharing",
+   "authors": "Jessica Santana (UC Santa Barbara)"
+  },
+  {
+   "title": "Kickstarting A Novel Audience: The Formation and Evolution of Backers' Interpretive Schemas",
+   "authors": "J.-F. Soublière (HEC Montréal)"
+  },
+  {
+   "title": "Pitch Perfect: The Impact of Investor Evaluations on Entrepreneurial Adaptation and Gender Dynamics",
+   "authors": "Natasha Overmeyer (University of Oregon)"
+  },
+  {
+   "title": "Future Whales: Speculated & Perceived Power in Entrepreneurial-Established Firm Partnerships for Novel Technology Development",
+   "authors": "Jacqueline Kirtley (Wharton, University of Pennsylvania)"
+  },
+  {
+   "title": "\"Dare mighty things\": NASA JPL's design of the Martian helicopter Ingenuity",
+   "authors": "Raja Roy (New Jersey Institute of technology), Rahul Kapoor, Bob Balaram"
+  },
+  {
+   "title": "Cross-border Visits and Scientific Collaboration",
+   "authors": "Hyo Kang (USC), Chungeun Yoon"
+  },
+  {
+   "title": "Mavericks and Diplomats: Bridging Commercial and Institutional Entrepreneurship",
+   "authors": "Eric Volmar, Kathleen Eisenhardt (Stanford University)"
+  },
+  {
+   "title": "Catalyzing Grand Challenges: Institutional Voids, Nonprofits, and the Orchestration of a Nascent Industry",
+   "authors": "Alicia DeSantola (University of Washington), Cheng Gao (University of Michigan), Nina Guilbeault"
+  },
+  {
+   "title": "Organizational Emplacement as a Response To Digital Threat: The Novel Resurgence of Independent Bookstores",
+   "authors": "Ryan Raffaelli (Harvard Business School), Ryann Noe"
+  },
+  {
+   "title": "From Armed Roots to Airline Routes: Stakeholder Imprinting Effects and Entrepreneurial Geographic Expansion",
+   "authors": "Kunyuan Qiao (Northeastern), Shon Hiatt (USC), Wesley Sine (Cornell)"
+  },
+  {
+   "title": "Pushed Out or Pulled Back In? Big Tech Acquisitions and Founders' Post-Exit Entrepreneurial Careers",
+   "authors": "Ming zhu Wang (University of Washington)"
+  },
+  {
+   "title": "The Impact of Bureaucracy on Entrepreneurial Opportunity Recognition",
+   "authors": "Khonika Gope (University of Oregon), Charles Eesley (Stanford University)"
+  }
+ ]
+}

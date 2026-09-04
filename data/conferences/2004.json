@@ -1,0 +1,18 @@
+{
+ "year": 2004,
+ "held": true,
+ "dates_display": null,
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": null,
+  "school": "University of Washington",
+  "school_display": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "highlights": [],
+ "source_note": "No program survives for 2004.",
+ "papers": []
+}

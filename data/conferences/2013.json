@@ -1,0 +1,114 @@
+{
+ "year": 2013,
+ "held": true,
+ "start_date": "2013-09-05",
+ "end_date": "2013-09-06",
+ "dates_display": "September 5–6, 2013",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Buerk Center for Entrepreneurship, Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Paccar Hall",
+  "short": "Paccar Hall"
+ },
+ "program_pdf": {
+  "file": "2013-wcrs-program.pdf",
+  "source": "2013wcrsprogram.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2015/06/2013wcrsprogram.pdf"
+ },
+ "highlights": [
+  "Dinner at the Columbia Tower Club."
+ ],
+ "papers": [
+  {
+   "title": "Serial Entrepreneurs, Venture Failure, and Challenges to Learning",
+   "authors": "J.P. Eggers, New York University; Lin Song, Central University of Finance & Economics"
+  },
+  {
+   "title": "Accelerated Learning: Entrepreneurial Ventures Participating in Accelerator Programs",
+   "authors": "Susan Cohen and Christopher Bingham, University of North Carolina at Chapel Hill"
+  },
+  {
+   "title": "The Fog of Feedback: Ambiguity and Firm Responses to Multiple Aspiration-Levels",
+   "authors": "John Joseph, Duke University; Vibha Gaba, INSEAD"
+  },
+  {
+   "title": "Founder or Joiner? The Roles of Individual Preferences and Social-Contextual Factors in Shaping Different Entrepreneurial Interests",
+   "authors": "Michael Roach, Duke University; Henry Sauermann, Georgia Institute of Technology"
+  },
+  {
+   "title": "Institutional Flexibility and Entrepreneurship: Evidence from China",
+   "authors": "Chuck Eesley, Stanford University"
+  },
+  {
+   "title": "Technology Definitions and Entrepreneurship in the U.S. Geothermal Power Sector",
+   "authors": "Shon Hiatt, Harvard Business School; Sangchan Park, Ewha Womans University"
+  },
+  {
+   "title": "Bankers or Brokers? Firm Knowledge and VC Portfolio Performance",
+   "authors": "Warren Boeker, Emily Cox-Pahnke, and Rose Kim, University of Washington; Michael Howard, Texas A&M"
+  },
+  {
+   "title": "A Comparison of Super Angels and Venture Capital Firms as Entrepreneurial Investors: Assessing the Extent and Limits of Organizational Advantage",
+   "authors": "Benjamin Hallen, London Business School; Rory McDonald, University of Texas at Austin"
+  },
+  {
+   "title": "Board-level Strategic Decision Making: The CEO's perspective",
+   "authors": "Sam Garg, Hong Kong University of Science and Technology; Kathleen Eisenhardt, Stanford University"
+  },
+  {
+   "title": "A Theory and Test of Gut Feel-Based Entrepreneurial Investment Decisions",
+   "authors": "Laura Huang, University of Pennsylvania"
+  },
+  {
+   "title": "Taking Leaps of Faith: Organizational Narratives and Resource Commitments for New Initiatives",
+   "authors": "Phillip Kim, University of Wisconsin-Madison; Reddi Kotha, Singapore Management University"
+  },
+  {
+   "title": "Social Capital or Social Enclave? Venture Capital Funding of Asian-Led Ventures in Silicon Valley",
+   "authors": "Jing Zhang, Old Dominion University; Poh Kam Wong and Yuen Ping Ho, National University of Singapore"
+  },
+  {
+   "title": "Complementarities and Capabilities: Unpacking the Drivers of Entrants' Technology Choices in the Solar Photovoltaic Industry",
+   "authors": "Rahul Kapoor, University of Pennsylvania; Nathan Furr, Brigham Young University"
+  },
+  {
+   "title": "Pre-Entry Resources, Strategic Positioning Choices and Introduction of Dominant Designs: Evidence from the Hard-Disk Drive Industry",
+   "authors": "Anu Wadhwa, Richard Tee, and Christopher Tucci, Ecole Polytechnique Federale de Lausanne"
+  },
+  {
+   "title": "Linking Strategic Resources, Competitive Actions, and Survival: The Case of Internet Ventures",
+   "authors": "David Gomulya, Nanyang Technolohical University; Suresh Kotha, University of Washington"
+  },
+  {
+   "title": "The Impact of Patent Wars on Firm Strategy: Evidence from the Global Smartphone Market",
+   "authors": "Yongwook Paik and Feng Zhu, University of Southern California"
+  },
+  {
+   "title": "Making the News: Heterogeneous Media Coverage and Patent Litigation",
+   "authors": "David Tan, University of Washington"
+  },
+  {
+   "title": "The Quest for Expansive Intellectual Property Rights and the Failure to Disclose Known Relevant Prior Art",
+   "authors": "H. Kevin Steensma and Mukund Chari, University of Washington; Ralph Heidl, Michigan State University"
+  },
+  {
+   "title": "Inter-Generational Hybrids: Spillbacks, Spillforwards and Surviving Technology Discontinuities",
+   "authors": "Nathan Furr and Daniel Snow, Brigham Young University"
+  },
+  {
+   "title": "Adaptive Emulation to Trendsetter Categories: Following in the U.S. Video Game Industry, 1995-2012",
+   "authors": "Eric Yanfei Zhao and P. Devereaux Jennings, University of Alberta; Masakazu Ishihara, New York University"
+  },
+  {
+   "title": "The Renaissance Chemist or the Schizophrenic Scientest? [sic]: Ambiguity, Identity, and Insider-Driven Change in a Scientific Field",
+   "authors": "Jennifer Howard-Grenville, Andrew Nelson, Andrew Earle, and Julie Haack, University of Oregon; Douglas Young, Lane Community College"
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+  "_comment": "Organization-level facts only. Anything true of a single conference year belongs in data/conferences/<year>.json.",
+  "name": "WCRS",
+  "full_name": "West Coast Research Symposium on Technology Entrepreneurship",
+  "short_name": "West Coast Research Symposium",
+  "tagline": "An annual gathering of researchers of technology entrepreneurship",
+  "founded": 2003,
+  "founded_city": "Seattle",
+  "base_url": "https://vglaser.github.io/wcrs-website/",
+  "feature_year": null,
+  "_feature_year_note": "Leave null: the build features the earliest conference whose end date is still ahead, else the earliest year marked to-be-announced. Set a year here only to override that.",
+  "home_lede": "An intimate conference of scholars of technology entrepreneurship, held each year in late summer and rotating among its sponsoring schools. Unpublished working papers, faculty presenting, and discussion held to the end of each session.",
+  "format_note": "Unpublished working papers; faculty present; discussion at the end of each session",
+  "what_wcrs_is": {
+    "heading": "A forum for unpublished work on technology entrepreneurship, built to improve it",
+    "lead": "The symposium aspires to provide an intellectually stimulating experience, map the theoretical domain of technology entrepreneurship, and build community. Around fifty to sixty scholars gather each year; participants come from the sponsoring schools, other West Coast universities, and the rest of the world.",
+    "cards": [
+      {
+        "title": "Working papers",
+        "text": "The steering committee invites unpublished working papers that advance knowledge on technology entrepreneurship. Papers on entrepreneurship and innovation in technology-based settings are given preference."
+      },
+      {
+        "title": "Faculty present",
+        "text": "WCRS rules require faculty members to present. Submissions with graduate-student co-authors are welcomed, and a faculty co-author is expected to attend and present."
+      },
+      {
+        "title": "Doctoral consortium",
+        "text": "A consortium for doctoral students from the sponsoring schools precedes the main conference, with mentoring from faculty and a first look at the field's current work."
+      }
+    ]
+  },
+  "about": {
+    "what_we_do": [
+      "The West Coast Research Symposium was conceived as a unique arena where the latest research findings pertaining to technology entrepreneurship could be discussed in a collegial, highly charged, and well-informed setting. It serves as a forum for the presentation and dissemination of research focused on technology entrepreneurship. Participants include faculty and doctoral students from the sponsoring schools as well as others from West Coast universities and from the rest of the country and the world.",
+      "The intent is to improve existing research, stimulate novel research ideas, and foster new relationships and research collaborations. The symposium also addresses a significant barrier to research collaboration on the West Coast: the concentration of research and university education within a relatively small number of large universities that are physically distant from one another. It is an attempt to bridge those distances and bring together like-minded faculty and doctoral students each year to discuss and debate trends in technology entrepreneurship research."
+    ],
+    "genesis": [
+      "Given the importance of entrepreneurship in the global economy, the dramatic increase in demand for entrepreneurship education, and the growing acceptance of entrepreneurship scholarship as an academic discipline, interest in technology entrepreneurship is strong among scholars based on the West Coast. A primary driver is the proximity of the key universities to major regional clusters of young, technology-based firms in Seattle, Portland, San Francisco and Silicon Valley, Los Angeles and Orange County, and San Diego. Yet technology entrepreneurship is a particularly challenging research area, because it requires knowledge of both the dynamics of technology and innovation and their interplay with launching and managing new firms.",
+      "Given this research challenge and growing interest, faculty from three universities initiated the West Coast Research Symposium in Seattle in 2003. Faculty from additional universities have since joined the consortium; the timeline below lists each school as it joined."
+    ],
+    "how_it_works": [
+      {
+        "title": "Rotating hosts",
+        "text": "The symposium moves among the sponsoring schools. The host school runs registration and local arrangements for its year and handles the conference finances; external participants pay a registration fee."
+      },
+      {
+        "title": "One call a year",
+        "text": "The steering committee approves a call for papers each spring, sometimes with a special emphasis for the year. Submissions are unpublished working papers; the committee assigns accepted papers to sessions."
+      },
+      {
+        "title": "Small by design",
+        "text": "Around fifty to sixty scholars attend, most of them presenting. Sessions run with all discussion at the end, and faculty present even when a doctoral student is a co-author."
+      },
+      {
+        "title": "A consortium for students",
+        "text": "A doctoral consortium precedes the main conference and gives students from the sponsoring schools mentoring and a first look at the field's current work."
+      }
+    ],
+    "hosting": "Each sponsoring school contributes to the symposium annually and takes a turn as host. The host provides the venue, the meals, and the local team; the steering committee sets the theme and the call; the University of Washington has handled submissions and papers in recent years. A school considering a future turn should speak with its steering committee member.",
+    "joiners": [
+      {
+        "year": 2003,
+        "people_ids": [
+          "kotha",
+          "eisenhardt",
+          "meyer"
+        ],
+        "schools": "University of Washington, Stanford University, University of Oregon",
+        "note": "Founding symposium, Seattle"
+      },
+      {
+        "year": 2005,
+        "people_ids": [
+          "rajagopalan"
+        ],
+        "schools": "University of Southern California"
+      },
+      {
+        "year": 2007,
+        "people_ids": [
+          "schoonhoven"
+        ],
+        "schools": "University of California, Irvine",
+        "note": "UC Irvine is not among the current sponsoring schools"
+      },
+      {
+        "year": 2015,
+        "people_ids": [
+          "lounsbury"
+        ],
+        "schools": "University of Alberta"
+      },
+      {
+        "year": 2024,
+        "people_ids": [
+          "tripsas"
+        ],
+        "schools": "University of California, Santa Barbara"
+      }
+    ]
+  },
+  "organizations": {
+    "stanford-stvp": {
+      "school": "Stanford University",
+      "unit": "Stanford Technology Ventures Program",
+      "logo": "logo-stanford.jpg",
+      "url": "https://stvp.stanford.edu/",
+      "row_name": "Stanford University"
+    },
+    "alberta-asb": {
+      "school": "University of Alberta",
+      "unit": "Alberta School of Business",
+      "logo": "logo-alberta.jpg",
+      "url": "https://www.ualberta.ca/en/business/",
+      "row_name": "Alberta School of Business"
+    },
+    "ucsb-tmp": {
+      "school": "UC Santa Barbara",
+      "unit": "Technology Management Program",
+      "logo": "logo-ucsb.jpg",
+      "url": "https://tmp.ucsb.edu/",
+      "row_name": "UC Santa Barbara"
+    },
+    "oregon-lundquist": {
+      "school": "University of Oregon",
+      "unit": "Lundquist Center for Entrepreneurship",
+      "logo": "logo-oregon.jpg",
+      "url": "https://business.uoregon.edu/",
+      "row_name": "Lundquist College of Business"
+    },
+    "usc-greif": {
+      "school": "University of Southern California",
+      "unit": "Lloyd Greif Center for Entrepreneurial Studies",
+      "logo": "logo-usc.jpg",
+      "url": "https://www.marshall.usc.edu/departments/lloyd-greif-center-entrepreneurial-studies",
+      "row_name": "USC Marshall School of Business"
+    },
+    "uw-cbdc": {
+      "school": "University of Washington",
+      "unit": "Consulting & Business Development Center, Foster School of Business",
+      "logo": "logo-uw-cbdc.jpg",
+      "url": "https://foster.uw.edu/centers/consulting-and-business-development-center/",
+      "row_name": "Foster School of Business"
+    },
+    "uw-buerk": {
+      "school": "University of Washington",
+      "unit": "Buerk Center for Entrepreneurship, Foster School of Business",
+      "logo": "logo-uw-buerk.jpg",
+      "url": "https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/",
+      "row_name": "Foster School of Business"
+    }
+  },
+  "people": {
+    "katila": {
+      "name": "Riitta Katila",
+      "school": "Stanford University",
+      "url": "https://profiles.stanford.edu/riitta-katila"
+    },
+    "lounsbury": {
+      "name": "Michael Lounsbury",
+      "school": "University of Alberta",
+      "url": null
+    },
+    "glaser": {
+      "name": "Vern Glaser",
+      "school": "University of Alberta",
+      "url": "https://apps.ualberta.ca/directory/person/vglaser"
+    },
+    "beckman": {
+      "name": "Christine Beckman",
+      "school": "UC Santa Barbara",
+      "url": null
+    },
+    "tripsas": {
+      "name": "Mary Tripsas",
+      "school": "UC Santa Barbara",
+      "url": "https://tmp.ucsb.edu/people/mary-tripsas"
+    },
+    "nelson": {
+      "name": "Andrew Nelson",
+      "school": "University of Oregon",
+      "url": "http://pages.uoregon.edu/ajnelson/"
+    },
+    "hiatt": {
+      "name": "Shon Hiatt",
+      "school": "University of Southern California",
+      "url": "https://www.marshall.usc.edu/personnel/shon-hiatt"
+    },
+    "cox-pahnke": {
+      "name": "Emily Cox Pahnke",
+      "school": "University of Washington",
+      "url": "https://foster.uw.edu/faculty-research/directory/emily-cox-pahnke/"
+    },
+    "kotha": {
+      "name": "Suresh Kotha",
+      "school": "University of Washington",
+      "url": "http://foster.uw.edu/faculty-research/directory/suresh-kotha/",
+      "role": "Founder, 2003"
+    },
+    "eisenhardt": {
+      "name": "Kathleen Eisenhardt",
+      "school": "Stanford University",
+      "url": "https://profiles.stanford.edu/kathleen-eisenhardt",
+      "role": "Founder, 2003"
+    },
+    "meyer": {
+      "name": "Alan Meyer",
+      "school": "University of Oregon",
+      "url": "http://lcb.uoregon.edu/faculty/profile.html?id=98&format=full",
+      "role": "Founder, 2003"
+    },
+    "rajagopalan": {
+      "name": "Nandini Rajagopalan",
+      "school": "University of Southern California",
+      "url": "https://www.marshall.usc.edu/faculty/directory/nrajagop",
+      "role": "Joined 2005"
+    },
+    "schoonhoven": {
+      "name": "Kaye Schoonhoven",
+      "school": "University of California, Irvine",
+      "url": null,
+      "role": "Joined 2007"
+    }
+  },
+  "founder_ids": [
+    "kotha",
+    "eisenhardt",
+    "meyer",
+    "rajagopalan"
+  ],
+  "papers_policy": {
+    "heading": "Conference papers",
+    "paragraphs": [
+      "WCRS is a working-paper conference. Authors share drafts so that colleagues can read them before the sessions and improve them afterwards. For that reason the papers are shared with registered participants directly by the organizers each year, and they are not published on this site.",
+      "The public record of each symposium is its program: who presented what, where, and when. Programs for every year since 2003 are on the Conferences pages."
+    ]
+  },
+  "contact": {
+    "note": "Registration for each symposium runs through the host school. Steering committee members for each school are listed above.",
+    "email": "wcrs@uw.edu",
+    "email_label": "West Coast Research Symposium",
+    "standing": []
+  }
+}

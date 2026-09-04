@@ -1,0 +1,99 @@
+{
+ "year": 2023,
+ "held": true,
+ "start_date": "2023-09-14",
+ "end_date": "2023-09-15",
+ "dates_display": "September 14–15, 2023",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Buerk Center for Entrepreneurship, Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "Founders Hall",
+  "short": "Founders Hall"
+ },
+ "program_pdf": {
+  "file": "2023-wcrs-program.pdf",
+  "source": "2023-wcrs-program-4.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2023/09/2023-wcrs-program-4.pdf"
+ },
+ "highlights": [
+  "Twentieth symposium. Day 1 closed with a dinner with the WCRS founders in the Peek Forum.",
+  "Job Market Candidates introductions on Day 2."
+ ],
+ "papers": [
+  {
+   "title": "From NFT Hype to Legitimation: An Institutional Perspective",
+   "authors": "Timothy Hannigan, Michael Lounsbury, Rodrigo Valadao (University of Alberta)"
+  },
+  {
+   "title": "Policy Learning in Nascent Industries' Venue Shifting: A Study of the U.S. Small Unmanned Aircraft Systems (UAS) Industry",
+   "authors": "Lori Yue (Columbia University); Jue Wang (Pennsylvania State University)"
+  },
+  {
+   "title": "Firms as Influencers: Shaping Industries Through Knowledge and Collaboration",
+   "authors": "Mana Heshmati (University of Washington)"
+  },
+  {
+   "title": "How Accelerators Shape Entrepreneurial Identity of Startups",
+   "authors": "Sara Mahabadi (University of Alberta)"
+  },
+  {
+   "title": "Entrepreneurial and Innovation Ecosystems in Artificial Intelligence: Geographic \"Pull\" Factors",
+   "authors": "David Hsu (University of Pennsylvania); Suting Hong (ShanghaiTech); Vinay Subramanian (University of Pennsylvania)"
+  },
+  {
+   "title": "How Startups Become Unicorns: Scalability, Venture Capital, and the Valuation and Timing of Startup IPOs",
+   "authors": "Deepak Somaya, Jingya You (University of Illinois at Urbana-Champaign)"
+  },
+  {
+   "title": "\"Even Better than the Real Thing\"?: Electronic Organs and the Paradox of Imitative Technology Products",
+   "authors": "Andrew Nelson (University of Oregon)"
+  },
+  {
+   "title": "Dynamic Positioning and Accelerating Product Launches by Ventures",
+   "authors": "Emily Cox Pahnke (University of Washington); Tiona Zuzul (Harvard Business School); Michael Howard (University of Iowa)"
+  },
+  {
+   "title": "Asking Better Questions: The Effect of Changing Investment Organizations' Evaluation Systems on Gender Disparities in Innovation",
+   "authors": "Amisha Miller (New York University); Saurabh Lall (University of Glasgow)"
+  },
+  {
+   "title": "The Company They Keep: Young Medical Device Ventures and Delegitimized Physician-Relationships",
+   "authors": "Jiang Bian (HKU Business School); Riitta Katila (Stanford University)"
+  },
+  {
+   "title": "Ascribing Moral Motivates: Examining Complementor Responses to Platform Governance Actions",
+   "authors": "Arvind Karunakaran (Stanford); Joey Van Angeren (VU Amsterdam)"
+  },
+  {
+   "title": "The Role of Advertisers and Platforms in Monetizing Misinformation: Descriptive and Experimental Evidence",
+   "authors": "Charles Eesley, Wajeeha Ahmad (Stanford); Ananya Sen (Carnegie Mellon)"
+  },
+  {
+   "title": "Digital Capabilities and Entrepreneurial Resilience to Crisis",
+   "authors": "Aparajita Agarwal, Tyler Wry (University of Pennsylvania)"
+  },
+  {
+   "title": "War Stories: Failure Empathy and Recovery in Virtual Entrepreneurial Communities of Practice",
+   "authors": "Jessica Santana, Brandon Lepine, Fares Ahmad (UC Santa Barbara)"
+  },
+  {
+   "title": "Exploring the Relationship between Social Activism and Entrepreneurship in Authoritarian Contexts",
+   "authors": "Lei Xu (University of Missouri-St Louis); Shaoqing Wang (Arizona State University); Shon Hiatt (University of Southern California)"
+  },
+  {
+   "title": "Synthetic Stakeholders: How the Natural Environment Achieves Salience in Organizations",
+   "authors": "David Sirmon (University of Washington); Jen Rhymer (University College London); Alex Murray (University of Oregon)"
+  },
+  {
+   "title": "The Minimum Viable CEO",
+   "authors": "Robert Eberhart (University of San Diego); Daniel Armanios (Oxford University); Vikram Bhargava (George Washington University)"
+  }
+ ]
+}

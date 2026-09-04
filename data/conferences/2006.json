@@ -1,0 +1,100 @@
+{
+ "year": 2006,
+ "held": true,
+ "start_date": "2006-09-08",
+ "end_date": "2006-09-09",
+ "dates_display": "September 8–9, 2006",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": null,
+  "school": "University of Washington",
+  "school_display": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "program_pdf": {
+  "file": "2006-wcrs-program.pdf",
+  "source": "2006wcrs-program.pdf",
+  "legacy_url": null
+ },
+ "highlights": [
+  "The first program to list participating schools: Oregon, USC, Stanford, and Washington.",
+  "Dinner at Ray's Boathouse on Puget Sound."
+ ],
+ "papers": [
+  {
+   "title": "Modes of Cooperative R&D Commercialization by Start-ups",
+   "authors": "Vikas Aggarwal and David Hsu, University of Pennsylvania"
+  },
+  {
+   "title": "Learning to Internationalize in Entrepreneurial Firms",
+   "authors": "Chris Bingham, Kathy Eisenhardt, and Nathan Furr, University of Maryland and Stanford University"
+  },
+  {
+   "title": "Governance, Innovation Speed, and the Performance of High Technology Start-up Firms",
+   "authors": "Susanna Khavul, University of Texas"
+  },
+  {
+   "title": "Mentoring and Monitoring: Linkages Between CEOs and Boards of Directors in New Ventures",
+   "authors": "Noam Wasserman and Warren Boeker, Harvard University and University of Washington"
+  },
+  {
+   "title": "How Entrepreneurs Use Symbolic Management to Acquire Resources",
+   "authors": "Christoph Zott and Quy Huy, INSEAD"
+  },
+  {
+   "title": "Business Plans and VC Investment Choices",
+   "authors": "Brent Goldfarb and David Kirsch, University of Maryland"
+  },
+  {
+   "title": "From Plan to Plant: Effects of Certification on Operational Start-up in the Emergent Independent Power Plants",
+   "authors": "Wes Sine, Cornell University"
+  },
+  {
+   "title": "Certifying the Harvest: The Role of Standards-Based Certification Organizations in the Organic Food Industry",
+   "authors": "Brandon Lee, London Business School"
+  },
+  {
+   "title": "Venture capital investing in Internet ventures and the \"Calcutta Auction\"",
+   "authors": "Sridhar Seshadri, Zur Shapira and Christopher Tucci, New York University and EPFL"
+  },
+  {
+   "title": "Learning to Acquire Technology Startups: The Role of Corporate Venture Capital",
+   "authors": "David Benson and Rosemarie Ziedonis, University of Michigan"
+  },
+  {
+   "title": "The Culmulative and Temporal Effects of Spin-outs on the Performance of Parent Firms (Progenitors) in the Hard Disk Industry [as printed]",
+   "authors": "Jonathan Jaffee and David McKendrick, University of Southern California and Durham University"
+  },
+  {
+   "title": "Regional Industrial Identity and Spatial Arrangements in the US Biotherapeutics Industry",
+   "authors": "Olga Khessina and Elaine Romanelli, Cornell University and Georgetown University"
+  },
+  {
+   "title": "Mutualism and Competition Among Locally-Owned and Absentee-Owned Organizations: Evidence From US Footwear Manufacturers",
+   "authors": "Pino Audia and Christopher Rider, University of California, Berkeley"
+  },
+  {
+   "title": "Leveraging Institutions for Competitive Advantage: How Firms Use the Business Media in Making Markets",
+   "authors": "Mark Kennedy and Edward Zajac, University of Southern California and Northwestern University"
+  },
+  {
+   "title": "Standing Out: How New Firms in Emerging Markets Build Media Reputation",
+   "authors": "Violina Rindova, Antoaneta Petkova and Suresh Kotha, University of Texas, University of Maryland, and University of Washington"
+  },
+  {
+   "title": "Innovation, Appropriability and the Underpricing of Initial Public Offerings",
+   "authors": "Michael Heeley, Sharon Matusik and Neelam Jain, Colorado School of Mines and University of Colorado"
+  },
+  {
+   "title": "From Theory to Practice in the Market for Entrepreneurial Inventions: Information Asymmetries, Optimism and The Choice of a Signaling Mechanism",
+   "authors": "Gary Dushnitsky, University of Pennsylvania"
+  },
+  {
+   "title": "Total Market Returns to Technological Entrepreneurship",
+   "authors": "Ashish Sood and Gerald Tellis, Emory University and University of Southern California"
+  }
+ ]
+}

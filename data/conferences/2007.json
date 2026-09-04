@@ -1,0 +1,99 @@
+{
+ "year": 2007,
+ "held": true,
+ "start_date": "2007-09-07",
+ "end_date": "2007-09-08",
+ "dates_display": "September 7–8, 2007",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Center for Innovation and Entrepreneurship",
+  "school": "University of Washington",
+  "school_display": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "venue": {
+  "name": "BOA Executive Education Center",
+  "short": "BOA Executive Education Center"
+ },
+ "program_pdf": {
+  "file": "2007-wcrs-program.pdf",
+  "source": "2007wcrsprogram.pdf",
+  "legacy_url": null
+ },
+ "highlights": [
+  "Dinner cruise on Lake Washington and Lake Union."
+ ],
+ "papers": [
+  {
+   "title": "Capabilities and Technological Change: The Role of Science-Based Versus Business-Based Entrepreneurs in New Venture Formation",
+   "authors": "Alva Taylor and Miguel Campo-Rembado, Dartmouth College"
+  },
+  {
+   "title": "Surviving an Era of Ferment: Computer Graphics Chipmakers in a 3D World",
+   "authors": "Becky Reuber, University of Toronto"
+  },
+  {
+   "title": "Response to Organizational Surprises in Startups: The Impact of Organizational Memory, Strategic Surprise Level, and Improvisation on Response Outcomes",
+   "authors": "Yan Gong, University of California – Irvine; Ted Baker, North Carolina State University; Dale Eesley, University of Toledo; Anne Miner, University of Wisconsin"
+  },
+  {
+   "title": "Opening the Black Box of Organizational Expertise: Understanding What Firms Learn from Their Process Experience and How That Learning Unfolds Over Time",
+   "authors": "Chris Bingham, University of Maryland; Kathy Eisenhardt, Stanford University; Jason Davis, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "Passion and Preparedness in Entrepreneurs' Business Plan Presentations: A Persuasion Analysis of Venture Capitalists' Funding Decisions",
+   "authors": "Xiao-Ping Chen and Suresh Kotha, University of Washington; Xin Yao, Wichita State University"
+  },
+  {
+   "title": "Origin of Networks: How Entrepreneurs Form their Investment Ties",
+   "authors": "Ben Hallen, University of Maryland"
+  },
+  {
+   "title": "Cognition and Consolidation: Saturation Dependence in Cognitive Market Networks",
+   "authors": "Mark Kennedy, University of Southern California"
+  },
+  {
+   "title": "Effects of Search Timing on Product Innovation: The Value of Not Being in Sync",
+   "authors": "Riitta Katila and Eric Chen, Stanford University"
+  },
+  {
+   "title": "Rotating Leadership and Symbiotic Relationships: Divided Governance in the Context of Collaborative Innovation",
+   "authors": "Jason Davis, Massachusetts Institute of Technology"
+  },
+  {
+   "title": "Learning from What Others Have Learned From You: The Effects of Knowledge Spillovers on Originating Firms",
+   "authors": "Hongyan Yang, Kevin Steensma and Corey Phelps, University of Washington"
+  },
+  {
+   "title": "Reputations for Toughness: The Effects of Patent Enforcement on Knowledge Spillovers via Inventor Mobility",
+   "authors": "Rajshree Agarwal and Martin Ganco, University of Illinois; Rosemarie Ziedonis, University of Michigan"
+  },
+  {
+   "title": "Do Inter-Firm Ties Reinforce or Substitute for Each Other? A Study of Alliances and Corporate Venture Capital in the Software Industry",
+   "authors": "Gary Dushnitsky, University of Pennsylvania; Dovev Lavie, University of Texas"
+  },
+  {
+   "title": "External Venturing for Strategic Renewal: Towards Understanding Who Makes Corporate Capital Investments and Why",
+   "authors": "Sandip Basu, Corey Phelps and Suresh Kotha, University of Washington"
+  },
+  {
+   "title": "Professional Users as a Source of Innovation: The Role of Physician Innovation in the Medical Device Industry",
+   "authors": "Aaron Chatterji, Duke University; Kira Fabrizio, Emory University"
+  },
+  {
+   "title": "Decoding Disruption",
+   "authors": "Ashish Sood, Emory University; Gerard Tellis, University of Southern California"
+  },
+  {
+   "title": "Licensing University Inventions to Start-ups and Established Firms",
+   "authors": "Brent Goldfarb and Rachelle Sampson, University of Maryland; Arvids Ziedonis, University of Michigan"
+  },
+  {
+   "title": "Explaining Innovation Performance: Is Corporate Venture Capital a Complement for Other External Technology Sourcing Modes",
+   "authors": "Vareska van de Vrande, RSM Erasmus University; Wim Vanhaverbeke and Geert Duysters, Eindhoven University of Technology; Nadine Roijakkers, Atos Consulting"
+  }
+ ]
+}

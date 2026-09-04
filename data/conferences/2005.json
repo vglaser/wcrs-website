@@ -1,0 +1,92 @@
+{
+ "year": 2005,
+ "held": true,
+ "start_date": "2005-09-09",
+ "end_date": "2005-09-10",
+ "dates_display": "September 9–10, 2005",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": null,
+  "school": "University of Washington",
+  "school_display": "University of Washington"
+ },
+ "place": {
+  "city": "Seattle",
+  "city_display": "Seattle, WA"
+ },
+ "program_pdf": {
+  "file": "2005-wcrs-program.pdf",
+  "source": "2005wcrsprogram.pdf",
+  "legacy_url": null
+ },
+ "highlights": [
+  "Eight sessions with discussants over two days."
+ ],
+ "source_note": "The surviving program appears to be a pre-conference draft.",
+ "papers": [
+  {
+   "title": "How Technological and Cultural Entrepreneurship Co-Evolve: Tuning in to the \"Next Big Thing\" in Satellite Radio",
+   "authors": "Chad Navis & Mary Ann Glynn, Emory University"
+  },
+  {
+   "title": "Complexity, Market Dynamism, and the Strategy of Simple Rules",
+   "authors": "Jason Davis & Kathy Eisenhardt, Stanford University"
+  },
+  {
+   "title": "Ownership, Mission and Environment: Co-determinants of an Evolving Technology Social Venture",
+   "authors": "Geoffrey Desa & Suresh Kotha, University of Washington"
+  },
+  {
+   "title": "All your eggs in one basket? Dependence on a Key Customer and the Survival of Young, Technology-Based Firms",
+   "authors": "Helena Yli-Renko, University of Southern California"
+  },
+  {
+   "title": "Founding the Future: The Evolution of Top Management Teams from Founding to IPO",
+   "authors": "Diane Burton, MIT & Christine Beckman, UC - Irvine"
+  },
+  {
+   "title": "Successful Post-Acquisition Integration of Technology-Based Firms",
+   "authors": "Margaret Dalziel, University of Ottawa"
+  },
+  {
+   "title": "Flexibility, expertise, and secrecy: How the sourcing of designs affects downstream product sourcing",
+   "authors": "Anne Parmigiani, University of Oregon"
+  },
+  {
+   "title": "Seeing Opportunity in Change: Examining the Role of Structure, Team Composition, and Opportunity Cognition in Response to Discontinuous Change",
+   "authors": "Clark Gilbert, Harvard Business School"
+  },
+  {
+   "title": "Risky Business? Entrepreneurship in the New Independent-Power Sector",
+   "authors": "Wesley Sine, Pamela Tolbert – Cornell U. & Heather Haveman – Columbia University"
+  },
+  {
+   "title": "Knowledge Bridging by Biotechnology Start-ups",
+   "authors": "David Hsu & Kwanghui Lim, University of Pennsylvania"
+  },
+  {
+   "title": "Field-Configuring Events as Structuring Mechanisms: Emergence of the Nanotechnology Investing Community",
+   "authors": "Alan Meyer, University of Oregon"
+  },
+  {
+   "title": "Field entrepreneurial strategies and the politics of technology innovation: Lessons from OMX, London Stock Exchange, and Deutsche Bourse",
+   "authors": "Marc Ventresca, Oxford University"
+  },
+  {
+   "title": "Social Network Ties, Prior Knowledge, and Entrepreneurial Resource Acquisition",
+   "authors": "Jing Zhang – City U., London, Poh-kam Wong & Pek-hooi Soh – National U. of Singapore"
+  },
+  {
+   "title": "The Flip Side of the Coin: Nascent Technology Ventures and Corporate Venture Funding",
+   "authors": "Jeff Rosenberger, Riitta Katila & Kathy Eisenhardt, Stanford University"
+  },
+  {
+   "title": "From deviation to innovation: stories, cognitive embeddedness and organizational performance",
+   "authors": "Mark Kennedy, University of Southern California"
+  },
+  {
+   "title": "The Hidden Dangers of Embeddedness: Trust and Betrayal in Entrepreneurial Acquisitions",
+   "authors": "Melissa Graebner, University of Texas, Austin"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "year": 2021,
+ "held": true,
+ "start_date": "2021-09-09",
+ "end_date": "2021-09-09",
+ "dates_display": "September 9, 2021",
+ "host": {
+  "org_id": "uw-buerk",
+  "unit": "Foster School of Business",
+  "school": "University of Washington"
+ },
+ "place": {
+  "mode": "virtual",
+  "city_display": "Held online"
+ },
+ "program_pdf": {
+  "file": "2021-wcrs-program.pdf",
+  "source": "2021-wcrs-program_090321.pdf",
+  "legacy_url": "https://thewcrs.wordpress.com/wp-content/uploads/2023/11/2021-wcrs-program_090321.pdf"
+ },
+ "highlights": [
+  "A one-day online symposium, 8:30 AM to 2:00 PM Pacific.",
+  "Four “Dialogues” of four papers each, led by Ben Hallen and Suresh Kotha; Lauren Lanahan and Milan Miric; Tim Hannigan and Dev Jennings; John Eklund."
+ ],
+ "papers": [
+  {
+   "title": "How Do Executives Quickly Learn New Skills and Capabilities? A Study of Entrepreneurs Learning Crowdfunding",
+   "authors": "Alex Murray (University of Oregon), Ben Hallen (University of Washington), Suresh Kotha (University of Washington)"
+  },
+  {
+   "title": "Learning from Outsiders: Explaining How External Advice Can Inform Entrepreneurial Strategy",
+   "authors": "Siobhan O'Mahony (Boston University), Amisha Miller (Boston University), Susan Cohen (Terry College of Business)"
+  },
+  {
+   "title": "Founders and Organizational Change",
+   "authors": "Minjae Kim (Rice University), Daniel Kim (University of Pennsylvania)"
+  },
+  {
+   "title": "Complementary roles of cognitive and experiential search in template replication: Evidence from Slow Money",
+   "authors": "Natalya Vinokurova (The Wharton School), Esther Leibel (Boston University)"
+  },
+  {
+   "title": "Beefing IT up for your Investor? Technology Strategy and Startup Funding: Evidence from GitHub",
+   "authors": "Maria Roche (Harvard University), Annamaria Conti (University of Lausanne), Christian Peukert (University of Lausanne)"
+  },
+  {
+   "title": "Standardized Tools and the Generalizability of Human Capital: The Impact of Standardized Technologies on Employee Mobility",
+   "authors": "Milan Miric (University of Southern California), Hakan Ozalp (University of Amsterdam)"
+  },
+  {
+   "title": "Coming from Competitive Stock: Parental Status and Genealogical Implications for Progeny Performance",
+   "authors": "Waverly Ding (University of Maryland), Christopher Liu (University of Oregon), Andy (Seungho) Back (University of Toronto)"
+  },
+  {
+   "title": "Estimating Spillovers from Publicly Funded R&D: Evidence from the US Department of Energy",
+   "authors": "Lauren Lanahan (University of Oregon), Kyle Myers (Harvard Business School)"
+  },
+  {
+   "title": "A Cultural Cartographic Approach to Field Possibilities: Capturing the Multiverse Opened by the Entrepreneurial Moment",
+   "authors": "Dev Jennings (University of Alberta), Tim Hannigan (University of Alberta), Yunjung Pak (University of Alberta)"
+  },
+  {
+   "title": "The Goldilocks Effect: Entrepreneurial Market Leadership Claims and Stakeholder Evaluations in Nascent Markets",
+   "authors": "Jade Lo (Drexel University), Xiumei Li (University of Manitoba), Derek Harmon (University of Michigan)"
+  },
+  {
+   "title": "A Blessing or A Curse? Being a Unicorn Firm in the IPO Market",
+   "authors": "Joseph Shin (University of Washington), David Park (Syracuse University), Suresh Kotha (University of Washington)"
+  },
+  {
+   "title": "Spillover Effects of Differential Media Coverage of Startups on the Venture Capital Firm's Subsequent Fundraising",
+   "authors": "Hyunshun Kim-Hahm (Eastern Illinois University)"
+  },
+  {
+   "title": "Industry or Ecosystem Change? Examining How New Entrants can Impact Established Incumbent-Supplier Relationships",
+   "authors": "John Eklund (University of Southern California), Ankur Chavda (University of Lausanne)"
+  },
+  {
+   "title": "Going Beyond Conversational Partners: Entrepreneurs' Framing and Audiences' Support for Their Innovations in Online Platforms",
+   "authors": "Jamie Song (ESMT Berlin)"
+  },
+  {
+   "title": "By the People and for the People: The Double-Edged Effects of User Mobilization Strategy in Regulating the US Ridesharing Industry, 2009-2019",
+   "authors": "Yuni Wen (University of Oxford), Lori Qingyuan Yue (University of Southern California)"
+  },
+  {
+   "title": "Dynamic Optimal Distinctiveness: Changing Entrepreneurial Framing Distinctiveness in the Nascent Blockchain Market",
+   "authors": "Willow Wu (University of Maryland)"
+  }
+ ]
+}
